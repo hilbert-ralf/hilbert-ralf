@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Warum Sparen? Aka wie funktioniert unsere Rente?"
+date:   2018-08-18 18:00:00 +0200
+category: ["geldkram"]
+---
+
+Warum sollte man eigentlich sparen? Nun, es gibt eine Menge guter Gründe. Die meisten lassen sich in die beiden
+ folgenden Kategorien einordnen:
+
+1. Sparen für Konsumziele (ein neues Auto, Hausbau, eine teure Reise).
+2. Sparen zur Sicherheit (Bildung von Rücklagen um bestimmte Engpässe abzufedern wie z. B. Jobverlust, unerwartete Reparaturen am Auto oder Haus).
+
+Mein Hauptgrund passt am ehestens zur zweiten Kategorie. Zwar habe ich weder Auto noch Haus und auch mein Job (Softwareentwicklung) ist bei der aktuellen Marktlage relativ risikoarm, jedoch habe ich hoffentlich ein langes Leben. Und mit diesem stellt sich schnell die Frage: "Wovon lebe ich in dieser Zukunft?" Das Naheliegende, worauf sich Generationen vor mir verließen, war hier die staatliche Rente. Ich glaube jedoch nicht, dass ich das kann (mal davon abgesehen, ob ich überhaupt bis zum Renteneintrittsalter noch Software entwickeln kann oder will). Nein besser noch ich sollte es gar nicht.
+
+Warum bin ich dieser Meinung? Über die letzten Jahre hörte man immer wieder die Begriffe Alterspyramide, Lebensarbeitszeit, Rentenniveau und ähnliche in den Medien. Dies ließ mich aufhorchen. Ich habe mich ein wenig mit dem Thema beschäftigt und bin zu der persönlichen Überzeugung gelangt, dass die staatliche Rente in Zukunft so etwas wie eine Grundsicherung sein wird, ja sogar sein sollte. Damit meine ich das die staatliche Rente zwar reichen wird ein grundsätzliches Auskommen (Wohnen, Essen) zu ermöglichen, Wünsche darüber hinaus aber unerfüllt lassen wird. Unser Rentensystem funktioniert über einen sogenannten Generationenvertrag. Das heißt, dass heute erwerbstätige Menschen über Beiträge die Renten der aktuellen Rentnergeneration finanzieren. Meine heutigen Rentenbeiträge bekomme ich also nicht im Alter als meine Rente wieder ausgezahlt! Dieses System ist darauf ausgelegt, dass optimaler Weise viele Erwerbstätige auf wenige Rentner treffen, denn so würden die Beiträge gut verteilt werden können.
+
+Wenn man sich folgendes Diagramm ansieht:
+
+<a
+  href="https://de.statista.com/infografik/12347/personen-ueber-65-jahren-je-100-werktaetige/"
+  title="Infografik: Rentensystem unter Druck | Statista">
+  <img
+    src="https://infographic.statista.com/normal/infografik_12347_personen_ueber_65_jahren_je_100_werktaetige_n.jpg"
+    alt="Infografik: Rentensystem unter Druck | Statista"
+    width="100%"
+    height="auto"
+    style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/>
+</a>
+Mehr Infografiken finden Sie bei <a href="https://de.statista.com/infografik/">Statista</a>
+
+Dann sieht man, dass bereits 2015 die Zahl der Rentner ca. 35 pro 100 Erwerbstätige betrug. Wenn man allerdings auf den Wert im Jahre 2050 schaut, wird klar, das mit erwarteten 59 Rentnern auf 100 Erwerbstätige diese Erwerbstätigen anteilig deutlich mehr Rente stemmen müssen. Dies kann man tun, indem man beispielsweise die Rentenbeiträge weiter erhöht oder eben die Renten senkt.
+
+Gründe für diese Entwicklung sehe ich vor allem darin, dass wir ein hervorragendes Gesundheitssystem und medizinische Fortschritte genießen. Darüber hinaus gibt es die Tendenz in entwickelten Wirtschaftsnationen weniger Kinder zu bekommen, da diese beispielsweise nicht mehr direkt für das eigene spätere Überleben notwendig sind. Dies eröffnet uns die Möglichkeit ein längeres Leben zu führen und nach aktuellem Stand auch länger in den Genuss der Rente zu kommen bei gleichzeitig stagnierender Nachwuchszahl:
+
+<a
+  href="https://de.statista.com/infografik/2026/durchschnittliches-renten--und-pensions-eintrittsalter-und-bezugsdauer/"
+  title="Infografik: Dauer der Altersbezüge hat sich seit 1970 fast verdoppelt | Statista">
+  <img
+    src="https://infographic.statista.com/normal/infografik_2026_durchschnittliches_Renten-_und_Pensions-Eintrittsalter_und_Bezugsdauer_n.jpg" alt="Infografik: Dauer der Altersbezüge hat sich seit 1970 fast verdoppelt | Statista"
+    width="100%"
+    height="auto"
+    style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/>
+</a>
+Mehr Infografiken finden Sie bei <a href="https://de.statista.com/infografik/">Statista</a>
+
+In dieser Grafik halte ich zwei Dinge für besonders interessant. Zum einen gibt es in den letzten Jahren die Tendenz
+ das Renteneintrittsalter zu erhöhen. Dies ist nur verständlich, wenn man nicht nach Belieben die Rentenbeiträge erh
+ öhen will, muss man die Anzahl der Rentner beeinflussen, ergo: Menschen in Arbeit halten. Einfach gesagt: wer länger
+  lebt, soll auch länger Arbeiten (lassen wir mal beiseite das dies nicht in allen Berufen realistisch ist
+  ). Weiterhin sieht man aber auch, dass es eine lange Zeitspanne gab, in der das Renteneintrittsalter sank. Warum
+  ? Zum einen startete dies einst (1889) mit 70 Jahren, wurde dann aber aus verschiedenen Gründen und in verschiedenen Schritten für einige Berufsgruppen gesenkt. Ein paar mehr Details kann man beispielsweise [hier](http://www.bpb.de/politik/innenpolitik/rentenpolitik/223218/die-entwicklung-der-altersgrenze) nachlesen. Da 1889 die Lebenserwartung der Menschen deutlich kürzer war als heute, erkennt man schnell, dass das System nicht auf einen jahrzehntelangen währenden Lebensabend ausgelegt war. Diesem Zustand entgegenzusteuern ist eine immer dringender werdende Notwendigkeit. Ich gehe davon aus, dass es in Zukunft einen weiter nach hinten verlagerten Rentenbeginn sowie auch sinkende Rentenbezüge geben wird und auch muss. Anders sehe ich bei unserem aktuellen System nicht wie immer mehr Rentner (im Verhältnis zu Werktätigen) versorgt werden sollen. Hier mögen natürlich und hoffentlich andere Entwicklungen in Zukunft (Produktivitätssteigerungen durch Automatisierung, ...) Besserungen bringen aber man sollte eben nicht vom Best-Case ausgehen, wenn es um die eigene Altersvorsorge geht.
+Dies ist weitestgehend bekannt und immer mehr wird daher eine Mehr-Säulen-Lösung empfohlen, also das man sich nicht nur auf die staatliche Rente verlässt, sondern auch durch weitere Bestandteile wie eine betriebliche Rentenversorgung sowie privater Vorsorge diversifiziert.
+
+![3-Säulen System](/blog/assets/geldkram/altersabsicherung-3-saeulen-system-infografik-gross.gif)
+Diese Infografik ist von <a href="https://www.einfach-rente.de" target="_blank">einfach-rente.de</a>.
+
+
+Details, sowie eine ganz grobe Rentenprognose kann man hierfür auch gut auf https://www.einfach-rente.de/alterssicherung-3-saeulen-system nachlesen.
+In meinen weiteren Einträgen möchte ich mich besonders dem auf der Grafik “sonstige Geldanlagen” genannten Bereich fokussieren. Denn hier sehe ich eine einfache Möglichkeit zur Vorsorge die auch flexibel an das eigene Leben anpassbar ist und viele Freiheiten gewähren kann.
+
+# Weiterführendes
+* [Altersarmut: Immer mehr Rentner müssen arbeiten](https://www.cash-online.de/versicherungen/2018/altersarmut-immer-mehr-rentner-muessen-arbeiten/431739)
+* [So groß ist die Finanzierungslücke bei der Rente](https://www.cash-online.de/versicherungen/2019/so-gross-ist-die-finanzierungsluecke-bei-der-rente/454163)
