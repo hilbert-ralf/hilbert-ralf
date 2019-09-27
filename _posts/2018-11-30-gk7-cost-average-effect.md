@@ -7,7 +7,7 @@ category: ["geldkram"]
 
 # todo post referenz fixen
 
-Wie im Artikel [“Risiko, eine Frage von Zeit und Zeitpunkt”](https://geldkram.blogspot.com/2018/09/risiko-eine-frage-von-zeit-und-zeitpunkt.html) erörtert, ist der [Cost-Average-Effect](https://de.wikipedia.org/wiki/Durchschnittskosteneffekt) ein Mechanismus, der zur Regulierung des Anlagerisikos dient. Um diesen zu nutzen, verteilt man eine größere Geldanlage auf mehrere kleinere Beträge und investiert diese in einem - nach Möglichkeit - festen Zeitabstand. Hierdurch verringerst du das Risiko, dass du bei Marktschwankungen zu einem bestimmten Kurs Aktien kaufst, deren Wert dann jedoch fällt, jedoch auch die Chance, dass genau das Gegenteil passiert und der Kurs steigt. Um diesen Effekt zu veranschaulichen, hier eine kleine Grafik:
+Wie im Artikel [“Risiko, eine Frage von Zeit und Zeitpunkt”]({{ site.baseurl }}{% post_url 2018-09-30-gk5-risiko %}) erörtert, ist der [Cost-Average-Effect](https://de.wikipedia.org/wiki/Durchschnittskosteneffekt) ein Mechanismus, der zur Regulierung des Anlagerisikos dient. Um diesen zu nutzen, verteilt man eine größere Geldanlage auf mehrere kleinere Beträge und investiert diese in einem - nach Möglichkeit - festen Zeitabstand. Hierdurch verringerst du das Risiko, dass du bei Marktschwankungen zu einem bestimmten Kurs Aktien kaufst, deren Wert dann jedoch fällt, jedoch auch die Chance, dass genau das Gegenteil passiert und der Kurs steigt. Um diesen Effekt zu veranschaulichen, hier eine kleine Grafik:
 
 ![Cost-Average-Effect Beispielrechnung]({{ site.baseurl }}{% link assets/geldkram/gk7-cost-average-effect.png %})
 
