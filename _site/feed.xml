@@ -1,61 +1,480 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2019-09-20T19:07:40+02:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Geldkram &amp;amp; mehr</title><subtitle>Hier geht's um Geld. Kram den die wenigsten mögen, mit dem sich aber alle beschäftigen sollten!</subtitle><entry><title type="html">Welcome to struggle with Jekyll!</title><link href="http://localhost:4000/blog/tech/2019/09/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to struggle with Jekyll!" /><published>2019-09-16T18:24:19+02:00</published><updated>2019-09-16T18:24:19+02:00</updated><id>http://localhost:4000/blog/tech/2019/09/16/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/tech/2019/09/16/welcome-to-jekyll.html">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2019-09-26T16:45:38+02:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Geldkram &amp;amp; mehr</title><subtitle>Hier geht's um Geld. Kram den die wenigsten mögen, mit dem sich aber alle beschäftigen sollten!</subtitle><entry><title type="html">Welcome to struggle with Jekyll!</title><link href="http://localhost:4000/blog/tech/2019/09/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to struggle with Jekyll!" /><published>2019-09-16T18:24:19+02:00</published><updated>2019-09-16T18:24:19+02:00</updated><id>http://localhost:4000/blog/tech/2019/09/16/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/tech/2019/09/16/welcome-to-jekyll.html">&lt;ul&gt;
+  &lt;li&gt;follow https://jekyllrb.com/docs/installation/&lt;/li&gt;
+  &lt;li&gt;follow https://jekyllrb.com/docs/&lt;/li&gt;
   &lt;li&gt;jekyll new .&lt;/li&gt;
   &lt;li&gt;baseurl in _config.yml anpassen&lt;/li&gt;
+  &lt;li&gt;bundle install&lt;/li&gt;
   &lt;li&gt;jekyll build&lt;/li&gt;
   &lt;li&gt;.gitignore editieren&lt;/li&gt;
   &lt;li&gt;alles einchecken&lt;/li&gt;
   &lt;li&gt;bundle exec jekyll serve&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="[&quot;tech&quot;]" /><summary type="html">jekyll new . baseurl in _config.yml anpassen jekyll build .gitignore editieren alles einchecken bundle exec jekyll serve</summary></entry><entry><title type="html">Warum Sparen? Aka wie funktioniert unsere Rente?</title><link href="http://localhost:4000/blog/geldkram/2018/08/18/geldkram-rente.html" rel="alternate" type="text/html" title="Warum Sparen? Aka wie funktioniert unsere Rente?" /><published>2018-08-18T18:00:00+02:00</published><updated>2018-08-18T18:00:00+02:00</updated><id>http://localhost:4000/blog/geldkram/2018/08/18/geldkram-rente</id><content type="html" xml:base="http://localhost:4000/blog/geldkram/2018/08/18/geldkram-rente.html">&lt;p&gt;Warum sollte man eigentlich sparen? Nun, es gibt eine Menge guter Gründe. Die meisten lassen sich in die beiden
- folgenden Kategorien einordnen:&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="[&quot;tech&quot;]" /><summary type="html">follow https://jekyllrb.com/docs/installation/ follow https://jekyllrb.com/docs/ jekyll new . baseurl in _config.yml anpassen bundle install jekyll build .gitignore editieren alles einchecken bundle exec jekyll serve</summary></entry><entry><title type="html">Souverän Investieren mit Indexfonds &amp;amp; ETFs - Buchempfehlung</title><link href="http://localhost:4000/blog/geldkram/2019/05/24/gk13-buchempfehlung-souveraen-investieren.html" rel="alternate" type="text/html" title="Souverän Investieren mit Indexfonds &amp; ETFs - Buchempfehlung" /><published>2019-05-24T18:00:00+02:00</published><updated>2019-05-24T18:00:00+02:00</updated><id>http://localhost:4000/blog/geldkram/2019/05/24/gk13-buchempfehlung-souveraen-investieren</id><content type="html" xml:base="http://localhost:4000/blog/geldkram/2019/05/24/gk13-buchempfehlung-souveraen-investieren.html">&lt;p&gt;Endlich habe ich es geschafft Gerd Kommers erfolgreiches Buch “Souverän Investieren mit Indexfonds &amp;amp; ETFs” zu lesen. Das hatte ich schon lange vor, da ich immer wieder gehört habe, wie gut es sei, ja gar “das Buch” sei, wenn es um passive Geldanlage geht. Ein kurzes Fazit vorne weg: das kann ich großteils unterstreichen.
+Wie von Gerd Kommer gewohnt [1], widmet er der Interpretation von wissenschaftlichen Forschungsergebnissen und der Analyse langjähriger Datenreihen viel Raum. Ein Großteil des Buches handelt davon, zu zeigen, welche historischen Renditen langfristig zu erwarten sind und warum aktives Investieren der falsche Weg ist diese Renditen zu erreichen. Auch wenn sich Gerd Kommer gerade bei dem Punkt der Interessenkonflikte bei provisionsgestützter Finanzberatung häufig wiederholt, habe ich vieles Neues lernen dürfen:
+Nur weil man einen ETF kauft, heißt das nicht, man betreibt passive Geldanlage. Auch hier kann man durch das Unter- oder Übergewichten bestimmter Aspekte als aktiver Investor auftreten. Diesen Fehler habe ich gemacht, lies mehr hierzu unter “Wie betrifft das nun mein Depot?”.
+Was die Efficient-Market-Theorie ist [2]. 
+Dass man für korrekte Vergleiche auf den korrekten Vergleichsindex achten muss und vermeintlich lange Zeiträume von 10 Jahre noch immer zu kurz sind, um Glück oder Zufall bei Vergleichen auszuschließen.
+Das “risikofrei” ein Mythos ist und beispielsweise auch die nach der Einlagensicherung 100.000 € auf dem Girokonto nicht risikolos sind.
+Der MSCI World mit seinen ungefähr 1600 Aktien ist, wenn man marktbreit anlegen möchte nicht optimal. Hier sollte man mit der richtigen Produktwahl eher über 4000 Aktien im Korb haben.
+Die eigentlichen Handlungsanweisungen gehen hierbei im Vergleich fast unter. Auf nur wenigen Seiten erklärt der Autor, wie aus seiner Sicht ein optimales Depot auszusehen hat. Das hat mich zum einen überrascht, zeigt jedoch auch, wie kurz solch eine Handlungsanweisung aussehen kann, wenn man erst einmal die Hintergründe und zu vermeidenden Fehler verstanden hat. Leider bleibt Kommer konkrete Produktempfehlungen schuldig. Tatsächlich ist dies auch mein größter Kritikpunkt an diesem Buch. Bei mir führte das zu einer recht langen Recherche nach den richtigen Produkten, die zu mir passen und gleichzeitig dem Kommer Weltportfolio am nächsten kommen. Ich hätte mir hier gewünscht, dass beispielsweise die Webseite zum Buch [3], nach Prüfung, ob man das Buch gekauft hat, einem zumindest die vollständige Liste an empfohlenen Produkten angezeigt wird. Hier wird aber ohne den kostenpflichtigen Premiumaccount jeweils nur ein Produkt gelistet.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Sparen für Konsumziele (ein neues Auto, Hausbau, eine teure Reise).&lt;/li&gt;
-  &lt;li&gt;Sparen zur Sicherheit (Bildung von Rücklagen um bestimmte Engpässe abzufedern wie z. B. Jobverlust, unerwartete Reparaturen am Auto oder Haus).&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Und wie sollte man nun Investieren?&lt;/p&gt;
 
-&lt;p&gt;Mein Hauptgrund passt am ehestens zur zweiten Kategorie. Zwar habe ich weder Auto noch Haus und auch mein Job (Softwareentwicklung) ist bei der aktuellen Marktlage relativ risikoarm, jedoch habe ich hoffentlich ein langes Leben. Und mit diesem stellt sich schnell die Frage: “Wovon lebe ich in dieser Zukunft?” Das Naheliegende, worauf sich Generationen vor mir verließen, war hier die staatliche Rente. Ich glaube jedoch nicht, dass ich das kann (mal davon abgesehen, ob ich überhaupt bis zum Renteneintrittsalter noch Software entwickeln kann oder will). Nein besser noch ich sollte es gar nicht.&lt;/p&gt;
+&lt;p&gt;Kommer hat hier mehrere Empfehlungen in verschiedenen Komplexitätsstufen parat, die er Weltportfolio [4] [5] nennt. Die einfachste Variante ist dabei, wenn man den risikobehafteten Depotanteil simpel in ETFs auf den Index “MSCI All Country World Investable Market (ACWI IMI)” oder “FTSE All-World” investiert. 
+In den etwas komplexeren Varianten, die eine langfristig Mehrrendite von 0,5 % - 1,5 % haben sollen, empfiehlt Kommer Factor-Investing [6]. Hierbei werden Faktoren, die einen langfristig positiven Renditeeffekt bewiesen haben, übergewichtet. Für eine kurze und konkrete Zusammenfassung kann ich das Video [7] wärmstens empfehlen. Auch eine Beimischung von Immobilienaktien wird empfohlen.&lt;/p&gt;
 
-&lt;p&gt;Warum bin ich dieser Meinung? Über die letzten Jahre hörte man immer wieder die Begriffe Alterspyramide, Lebensarbeitszeit, Rentenniveau und ähnliche in den Medien. Dies ließ mich aufhorchen. Ich habe mich ein wenig mit dem Thema beschäftigt und bin zu der persönlichen Überzeugung gelangt, dass die staatliche Rente in Zukunft so etwas wie eine Grundsicherung sein wird, ja sogar sein sollte. Damit meine ich das die staatliche Rente zwar reichen wird ein grundsätzliches Auskommen (Wohnen, Essen) zu ermöglichen, Wünsche darüber hinaus aber unerfüllt lassen wird. Unser Rentensystem funktioniert über einen sogenannten Generationenvertrag. Das heißt, dass heute erwerbstätige Menschen über Beiträge die Renten der aktuellen Rentnergeneration finanzieren. Meine heutigen Rentenbeiträge bekomme ich also nicht im Alter als meine Rente wieder ausgezahlt! Dieses System ist darauf ausgelegt, dass optimaler Weise viele Erwerbstätige auf wenige Rentner treffen, denn so würden die Beiträge gut verteilt werden können.&lt;/p&gt;
+&lt;p&gt;Solltest du das Buch lesen?&lt;/p&gt;
 
-&lt;p&gt;Wenn man sich folgendes Diagramm ansieht:&lt;/p&gt;
+&lt;p&gt;Generell kann ich jedem empfehlen das Buch zu lesen, denn mit ein etwas Disziplin, um sich durch die Materie zu arbeiten, kann man eine ganze Menge lernen. Wem das zu anstrengend ist, empfiehlt Kommer alternativ sein Buch “Souverän investieren für Einsteiger. Wie Sie mit ETFs ein Vermögen bilden”. Hier verspricht der Autor die Zusammenhänge kürzer und einsteigerfreundlicher zu vermitteln, das Buch “Souverän Investieren mit Indexfonds &amp;amp; ETFs” sei hingegen von Ausgabe zu Ausgabe komplexer geworden.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://de.statista.com/infografik/12347/personen-ueber-65-jahren-je-100-werktaetige/&quot; title=&quot;Infografik: Rentensystem unter Druck | Statista&quot;&gt;
-  &lt;img src=&quot;https://infographic.statista.com/normal/infografik_12347_personen_ueber_65_jahren_je_100_werktaetige_n.jpg&quot; alt=&quot;Infografik: Rentensystem unter Druck | Statista&quot; width=&quot;100%&quot; height=&quot;auto&quot; style=&quot;width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;&quot; /&gt;
-&lt;/a&gt;
-Mehr Infografiken finden Sie bei &lt;a href=&quot;https://de.statista.com/infografik/&quot;&gt;Statista&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Was muss ich nun in meinem Depot verändern?&lt;/p&gt;
 
-&lt;p&gt;Dann sieht man, dass bereits 2015 die Zahl der Rentner ca. 35 pro 100 Erwerbstätige betrug. Wenn man allerdings auf den Wert im Jahre 2050 schaut, wird klar, das mit erwarteten 59 Rentnern auf 100 Erwerbstätige diese Erwerbstätigen anteilig deutlich mehr Rente stemmen müssen. Dies kann man tun, indem man beispielsweise die Rentenbeiträge weiter erhöht oder eben die Renten senkt.&lt;/p&gt;
+&lt;p&gt;Kommers Vorstellungen eines Weltportfolios haben mir gezeigt, dass ich  noch wesentlich zu aktiv unterwegs bin und auch bei meinen ETFs noch auf Produkte setze, die nicht gut genug diversifiziert sind. Im Folgenden ein paar Beispiele:&lt;/p&gt;
 
-&lt;p&gt;Gründe für diese Entwicklung sehe ich vor allem darin, dass wir ein hervorragendes Gesundheitssystem und medizinische Fortschritte genießen. Darüber hinaus gibt es die Tendenz in entwickelten Wirtschaftsnationen weniger Kinder zu bekommen, da diese beispielsweise nicht mehr direkt für das eigene spätere Überleben notwendig sind. Dies eröffnet uns die Möglichkeit ein längeres Leben zu führen und nach aktuellem Stand auch länger in den Genuss der Rente zu kommen bei gleichzeitig stagnierender Nachwuchszahl:&lt;/p&gt;
+&lt;p&gt;Stockpicking, also das Auswählen von Einzelaktien ist klar aktives investieren und somit renditeschädlich. Ich will diesen Bereich deutlich reduzieren, jedoch nicht aufgeben, da mir diese Spielerei Freude bereitet und ich an einige Unternehmen Glaube (z. B. BYD, Tesla und Amazon)
+Aktive Fonds sind genauso anzusehen wie Investments in Einzelaktien, mit dem Unterschied das man jemand anderen teuer bezahlt (Fondsgebühren), das für einen zu machen. Bis vor kurzem hatte ich noch vereinzelte Überbleibsel von aktiven Fonds, diese habe ich mittlerweile liquidiert.
+Mein ETF Segment hat schon jeher einen Großteil meiner Sparquote abbekommen. Aber auch hier gibt es große Unterschiede zwischen dem, was Kommer empfiehlt zu kaufen, und jenem, was man kaufen kann. Tausende ETFs ermöglichen einem fast alles zu kaufen, aber eben auch stark von dem Weltportfolioansatz abzuweichen. Hier werde ich einige Umschichtungen vornehmen, jedoch auch einiges behalten. Denn hier gilt das Gleiche wie für mein Stockpicking. Es gibt bestimmte Schwerpunkte, die es mir Wert sind, dafür ein wenig Rendite einzubüßen. Dazu gehören beispielsweise Fonds, die zum Teil einen nachhaltigen Ansatz verfolgen (auch wenn das nach Kommer wenig Sinn ergibt [8] - diesem Thema will ich noch einen eigenen Artikel widmen). Bei anderen ETFs hingegen habe ich nun gelernt, dass diese deutlich zu schlecht diversifiziert sind und ich sie daher abstoßen sollte (beispielsweise der “iShares STOXX Global Select Dividend 100 UCITS ETF (DE) 1”, der in nur 100 Dividenden-starke Titel weltweit investiert).
+Zusammenfassend will ich mein Portfolio in Zukunft in etwa wie in der folgenden Grafik aufbauen:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://de.statista.com/infografik/2026/durchschnittliches-renten--und-pensions-eintrittsalter-und-bezugsdauer/&quot; title=&quot;Infografik: Dauer der Altersbezüge hat sich seit 1970 fast verdoppelt | Statista&quot;&gt;
-  &lt;img src=&quot;https://infographic.statista.com/normal/infografik_2026_durchschnittliches_Renten-_und_Pensions-Eintrittsalter_und_Bezugsdauer_n.jpg&quot; alt=&quot;Infografik: Dauer der Altersbezüge hat sich seit 1970 fast verdoppelt | Statista&quot; width=&quot;100%&quot; height=&quot;auto&quot; style=&quot;width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;&quot; /&gt;
-&lt;/a&gt;
-Mehr Infografiken finden Sie bei &lt;a href=&quot;https://de.statista.com/infografik/&quot;&gt;Statista&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#todo bild einfügen&lt;/p&gt;
 
-&lt;p&gt;In dieser Grafik halte ich zwei Dinge für besonders interessant. Zum einen gibt es in den letzten Jahren die Tendenz
- das Renteneintrittsalter zu erhöhen. Dies ist nur verständlich, wenn man nicht nach Belieben die Rentenbeiträge erh
- öhen will, muss man die Anzahl der Rentner beeinflussen, ergo: Menschen in Arbeit halten. Einfach gesagt: wer länger
-  lebt, soll auch länger Arbeiten (lassen wir mal beiseite das dies nicht in allen Berufen realistisch ist
-  ). Weiterhin sieht man aber auch, dass es eine lange Zeitspanne gab, in der das Renteneintrittsalter sank. Warum
-  ? Zum einen startete dies einst (1889) mit 70 Jahren, wurde dann aber aus verschiedenen Gründen und in verschiedenen Schritten für einige Berufsgruppen gesenkt. Ein paar mehr Details kann man beispielsweise &lt;a href=&quot;http://www.bpb.de/politik/innenpolitik/rentenpolitik/223218/die-entwicklung-der-altersgrenze&quot;&gt;hier&lt;/a&gt; nachlesen. Da 1889 die Lebenserwartung der Menschen deutlich kürzer war als heute, erkennt man schnell, dass das System nicht auf einen jahrzehntelangen währenden Lebensabend ausgelegt war. Diesem Zustand entgegenzusteuern ist eine immer dringender werdende Notwendigkeit. Ich gehe davon aus, dass es in Zukunft einen weiter nach hinten verlagerten Rentenbeginn sowie auch sinkende Rentenbezüge geben wird und auch muss. Anders sehe ich bei unserem aktuellen System nicht wie immer mehr Rentner (im Verhältnis zu Werktätigen) versorgt werden sollen. Hier mögen natürlich und hoffentlich andere Entwicklungen in Zukunft (Produktivitätssteigerungen durch Automatisierung, …) Besserungen bringen aber man sollte eben nicht vom Best-Case ausgehen, wenn es um die eigene Altersvorsorge geht.
-Dies ist weitestgehend bekannt und immer mehr wird daher eine Mehr-Säulen-Lösung empfohlen, also das man sich nicht nur auf die staatliche Rente verlässt, sondern auch durch weitere Bestandteile wie eine betriebliche Rentenversorgung sowie privater Vorsorge diversifiziert.&lt;/p&gt;
+&lt;p&gt;Die Grafik zeigt, wie sich hierarchisch mein Depot zusammensetzen will. Auf oberster ebene gibt es hier Zum Beispiel das Weltportfolio das zu 70 % mein Depot ausmachen soll. Hierin habe ich zu definierten Anteilen Immobilien-, Schwellenland- sowie Industrieländeraktien vorgesehen. Zur Veranschaulichung habe ich neben den prozentualen auf die Oberkategorie bezogene Verteilung auch ein Euro-Rechenbeispiel eingefügt. Dies liest sich so: von 100 € die ich investiere, möchte ich 70 € in den Weltportfolio-Anteil leiten. Hiervon wiederum sollen 49 € in Aktien von Industrieländer fließen.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/geldkram/altersabsicherung-3-saeulen-system-infografik-gross.gif&quot; alt=&quot;3-Säulen System&quot; /&gt;
-Diese Infografik ist von &lt;a href=&quot;https://www.einfach-rente.de&quot; target=&quot;_blank&quot;&gt;einfach-rente.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Disclaimer&lt;/p&gt;
 
-&lt;p&gt;Details, sowie eine ganz grobe Rentenprognose kann man hierfür auch gut auf https://www.einfach-rente.de/alterssicherung-3-saeulen-system nachlesen.
-In meinen weiteren Einträgen möchte ich mich besonders dem auf der Grafik “sonstige Geldanlagen” genannten Bereich fokussieren. Denn hier sehe ich eine einfache Möglichkeit zur Vorsorge die auch flexibel an das eigene Leben anpassbar ist und viele Freiheiten gewähren kann.&lt;/p&gt;
+&lt;p&gt;Gerade weil ich in der Grafik konkrete Produkte nenne, möchte ich betonen, dass ich hier keine Empfehlung ausspreche, noch eine Anlageberatung durchführe. Ich schildere lediglich meine Erfahrungen und meine Ansichten.&lt;/p&gt;
 
-&lt;h1 id=&quot;weiterführendes&quot;&gt;Weiterführendes&lt;/h1&gt;
+&lt;p&gt;Links&lt;/p&gt;
+
+&lt;p&gt;[1] - https://geldkram.blogspot.com/2019/03/kaufen-oder-mieten-buchempfehlung.html
+[2] - https://de.wikipedia.org/wiki/Markteffizienzhypothese
+[3] - https://weltportfolio.net/
+[4] - https://weltportfolio.net/views/weltportfolio.xhtml
+[5] - https://de.extraetf.com/wissen/kommer-weltportfolios-2018
+[6] - https://www.gerd-kommer-invest.de/factor-investing-die-basics/
+[7] - https://www.youtube.com/watch?v=rKBeWnTKtJ4
+[8] - https://www.gerd-kommer-invest.de/sozial-verantwortlich-investieren-macht-das-sinn/
+In folgendem Artikel gibt Gerd Kommer Einsichten, ob warten auf eine Bewegung des Markes, um gezielt zu investieren, sinnvoll ist. - https://www.gerd-kommer-invest.de/timing-des-markteinstiegs/&lt;/p&gt;</content><author><name></name></author><category term="[&quot;geldkram&quot;]" /><summary type="html">Endlich habe ich es geschafft Gerd Kommers erfolgreiches Buch “Souverän Investieren mit Indexfonds &amp;amp; ETFs” zu lesen. Das hatte ich schon lange vor, da ich immer wieder gehört habe, wie gut es sei, ja gar “das Buch” sei, wenn es um passive Geldanlage geht. Ein kurzes Fazit vorne weg: das kann ich großteils unterstreichen. Wie von Gerd Kommer gewohnt [1], widmet er der Interpretation von wissenschaftlichen Forschungsergebnissen und der Analyse langjähriger Datenreihen viel Raum. Ein Großteil des Buches handelt davon, zu zeigen, welche historischen Renditen langfristig zu erwarten sind und warum aktives Investieren der falsche Weg ist diese Renditen zu erreichen. Auch wenn sich Gerd Kommer gerade bei dem Punkt der Interessenkonflikte bei provisionsgestützter Finanzberatung häufig wiederholt, habe ich vieles Neues lernen dürfen: Nur weil man einen ETF kauft, heißt das nicht, man betreibt passive Geldanlage. Auch hier kann man durch das Unter- oder Übergewichten bestimmter Aspekte als aktiver Investor auftreten. Diesen Fehler habe ich gemacht, lies mehr hierzu unter “Wie betrifft das nun mein Depot?”. Was die Efficient-Market-Theorie ist [2]. Dass man für korrekte Vergleiche auf den korrekten Vergleichsindex achten muss und vermeintlich lange Zeiträume von 10 Jahre noch immer zu kurz sind, um Glück oder Zufall bei Vergleichen auszuschließen. Das “risikofrei” ein Mythos ist und beispielsweise auch die nach der Einlagensicherung 100.000 € auf dem Girokonto nicht risikolos sind. Der MSCI World mit seinen ungefähr 1600 Aktien ist, wenn man marktbreit anlegen möchte nicht optimal. Hier sollte man mit der richtigen Produktwahl eher über 4000 Aktien im Korb haben. Die eigentlichen Handlungsanweisungen gehen hierbei im Vergleich fast unter. Auf nur wenigen Seiten erklärt der Autor, wie aus seiner Sicht ein optimales Depot auszusehen hat. Das hat mich zum einen überrascht, zeigt jedoch auch, wie kurz solch eine Handlungsanweisung aussehen kann, wenn man erst einmal die Hintergründe und zu vermeidenden Fehler verstanden hat. Leider bleibt Kommer konkrete Produktempfehlungen schuldig. Tatsächlich ist dies auch mein größter Kritikpunkt an diesem Buch. Bei mir führte das zu einer recht langen Recherche nach den richtigen Produkten, die zu mir passen und gleichzeitig dem Kommer Weltportfolio am nächsten kommen. Ich hätte mir hier gewünscht, dass beispielsweise die Webseite zum Buch [3], nach Prüfung, ob man das Buch gekauft hat, einem zumindest die vollständige Liste an empfohlenen Produkten angezeigt wird. Hier wird aber ohne den kostenpflichtigen Premiumaccount jeweils nur ein Produkt gelistet.</summary></entry><entry><title type="html">Ich und meine Fondsgebundene Rentenversicherung</title><link href="http://localhost:4000/blog/geldkram/2019/03/29/gk12-fondgebundene-rentenversicherung.html" rel="alternate" type="text/html" title="Ich und meine Fondsgebundene Rentenversicherung" /><published>2019-03-29T17:00:00+01:00</published><updated>2019-03-29T17:00:00+01:00</updated><id>http://localhost:4000/blog/geldkram/2019/03/29/gk12-fondgebundene-rentenversicherung</id><content type="html" xml:base="http://localhost:4000/blog/geldkram/2019/03/29/gk12-fondgebundene-rentenversicherung.html">&lt;p&gt;Die private Vorsorge fürs Alter, war einer der initialen Motivatoren, warum ich anfing meine Ersparnisse an den Kapitalmärkten zu investieren. Über meine Gedanken diesbezüglich habe ich detailliert in [1] sowie [2] geschrieben. 
+Doch warum selber machen? Es gibt doch auch private Rentenversicherungen! Ich habe so eine, aber ist das sinnvoll? Als ich den Vertrag 2004 bei einer Versicherungsmaklerin unterschrieb, war ich 16. Vieles was mir erzählt wurde, klang sinnvoll, aber verstanden habe ich davon wenig. Ich sollte anfänglich kleine, über die Zeit wachsende monatliche Beiträge zahlen, um dann 2047 entscheiden zu dürfen, ob ich eine Kapitalabfindung oder aber eine monatliche Rente haben wolle. Und jetzt, 15 Jahren (2004) nach der Vertragsunterzeichnung? Ich zahle noch immer meine Beiträge. Diese sind mittlerweile gestiegen, aber nicht so hoch, als dass ich sie nicht aus Faulheit vergessen könnte. Ich glaube, das ist problematisch, also ziehen wir Bilanz:&lt;/p&gt;
+
+&lt;p&gt;Bis 2047 werde ich insgesamt etwa 47.505,24 € Beiträge gezahlt haben. In meinem letzten Brief wurde mir eine Kapitalabfindung von 87.049 € “versprochen” oder aber wahlweise eine lebenslange Rente von 313,10 €. Diesen Zahlen wurde eine jährliche Wertsteigerung von 6 % zugrunde gelegt. Falls die Wertentwicklung jedoch geringer als 6 % jährlich sein sollte, müsste ich mit geringeren Summen rechnen.&lt;/p&gt;
+
+&lt;p&gt;Beispielrechnung mit 6 %&lt;/p&gt;
+
+&lt;p&gt;Nehmen wir mal diese Werte als gegeben hin, wie würde ich abschneiden, wenn ich dieselben Beiträge einfach auf ein imaginäres Konto einzahlen würde, auf das eine jährliche Verzinsung von 6 % besteht. Meiner Rechnung nach hätte ich dann 2047 ein Guthaben von 128.186,45 €. 
+Offensichtlich sollte ich in diesem Fall nicht die Kapitalabfindung nehmen, da diese deutlich geringer ausfällt als bei der eigenen Anlage des Geldes.
+Aber wie sieht es mit der monatlichen Rente aus? Diese wird schließlich ein Leben lang gezahlt. Mein Erspartes würde allerdings irgendwann aufgebraucht sein, oder nicht? Hier wird es lustig: Wenn ich von einer weiterhin gleichbleibenden Verzinsung von 6 % auf meine 128.186,45 € ausgehe, erhalte ich jährlich 7.691,19 € (128.186,45 € x 0,06) als Zinsen, was mehr das Doppelte meiner Jahresrente von 3757,2 € (313,1 € x 12 Monate) entspricht. Der “Geldhaufen” würde also nicht schrumpfen, sondern gleich bleiben oder sogar wachsen, wenn ich mir monatlich 640,93 € (7.691,19 € / 12 Monate) gönnen würde. Also auch dieses Modell würde sich nicht lohnen.&lt;/p&gt;
+
+&lt;p&gt;Beispielrechnung ohne Zinsen&lt;/p&gt;
+
+&lt;p&gt;Gehen wir mal von einem pessimistischen Szenario aus: Ich nehme die 128.186,45 € und lege die auf ein unverzinstes Girokonto. Zusätzlich rechnen wir auch noch mit einer Inflation von 2 %. Jetzt verringert sich der Wert sehr wohl. Ca. 2072 mit 84 Jahren hätte ich das Geld dann aufgebraucht, das entspräche einer Entsparphase von etwa 24 Jahren. Bedeutet es, dass damit automatisch die lebenslange Rente die bessere Wahl ist? Ich denke nicht, dieses Szenario ist das denkbar schlechteste und schon wenn man die Inflation weglassen würde ändert sich das Bild deutlich zum besseren.
+Nehmen wir den Vertrag doch einmal auseinander:&lt;/p&gt;
+
+&lt;p&gt;Sind 6 % überhaupt realistisch?&lt;/p&gt;
+
+&lt;p&gt;Interessant finde ich, dass die hervorgehobene Renditeberechnung von 6 % ausgeht. Wenn ich diesen Wert mit dem Renditedreieck des DAX [3] vergleiche, sind 6 % ein durchaus realistischer Wert.
+Schaue ich jedoch, welcher Fonds bei dem Vertrag bespart wird, sieht das anders aus. Der DWS FlexPension II 2031 (WKN: DWS2F4 / ISIN: LU1355508505) arbeitet mit Garantien. Dies bedeutet, dass der Fonds sich gegen Verluste absichert. Das klingt im ersten Moment gut, ist aber kontraproduktiv, wenn ich einen sehr langen Anlagehorizont (2047) habe und eher auf Rendite bedacht sein sollte.
+Ich habe daher vor einigen Jahren mein Geld in einen anderen Fonds, der zur Auswahl stand, umschichten lassen, in den DWS Top Dividende (WKN: 984811 / ISIN: DE0009848119). Es handelt sich hierbei um einen Fonds der überwiegend in Aktien investiert und dabei auch eine hohe Dividendenrendite achtet. Hier sieht es “renditemäßig” schon besser aus. Leider haben beide Fonds eines gemeinsam: es handelt sich um aktive Fonds. Wie ich in [2] bereits dargestellt habe, sind aktive Fonds teuer und damit in Bezug auf die Rendite den passiven Produkten wie z. B. ETFs gegenüber benachteiligt.
+Ob hier also dauerhaft 6 % Rendite zu erreichen ist, wie es mit einem ETF durchaus möglich wäre, wage ich zu bezweifeln. Leider bietet meine Versicherung keine ETFs, auf die man umschichten könnte.&lt;/p&gt;
+
+&lt;p&gt;Steuerliche Vergünstigung von fondsgebundenen Rentenversicherungen&lt;/p&gt;
+
+&lt;p&gt;Ein weiterer interessanter Aspekt sind Steuern. Zwar ist es nicht möglich, vorauszusagen wie die Steuergesetze in 30 Jahren aussehen werden, aber zumindest bis jetzt hat der Gesetzgeber Steuervorteile für fondsgebundene Rentenversicherungen wie meine vorgesehen. Hierbei geht es im Speziellen um Versicherungen, die bis 2005 abgeschlossen wurden und mindestens 12 Jahre bespart wurden. In diesem Fall kann es dazu kommen, dass eine Kapitalabfindung steuerfrei ausgeschüttet werden kann (Details können z. B. unter [5] nachgelesen werden). Auf eine Auszahlung als monatliche Rente trifft dies jedoch nicht zu. Aus meiner Sicht ändert dies das Gesamtbild jedoch in keinem großen Maße, denn auch ohne Steuerbelastung kann man mit dem gleichen eingesetzten Kapital am Kapitalmarkt mehr erreichen.&lt;/p&gt;
+
+&lt;p&gt;Zusammenfassung und Fazit&lt;/p&gt;
+
+&lt;p&gt;Höhe der Beiträge: 47.505,24 €
+Höhe der Kapitalabfindung (bei 6 % Rendite): 87.049 €
+Höhe des Kapitals bei eigener Anlage (bei 6 % Rendite): 128.186,45 €&lt;/p&gt;
+
+&lt;p&gt;Für mich war es eine interessante Erfahrung, einige Kennzahlen aus meinem Versicherungsvertrag nachzurechnen. Ich hatte seit Jahren ein ungutes Gefühl mit dem Vertrag und die monatlichen Beiträge würden nur weiter und weiter steigen. Was ich erfahren habe, hat mich darin bestärkt, dass ich den Vertrag zumindest beitragsfrei stellen sollte, ganz im Sinne der Börsenweisheit: “Wirf schlechtem Geld nicht gutes Geld hinterher” [4]. Eine Alternative wäre auch noch komplett zu kündigen, jedoch müsste ich dann Abschläge auf meine eingezahlte Summe hinnehmen.&lt;/p&gt;
+
+&lt;p&gt;Nachwort: Und was ist mit Provision?&lt;/p&gt;
+
+&lt;p&gt;Auf ein kleines Thema möchte ich noch am Rande eingehen, die Provision. Ich habe, erwachsen aus persönlichen Erfahrungen, eine schlechte Meinung von Versicherungs- sowie Bankberatern (bzw. Vertretern). Diese verdienen ihr Lebensunterhalt, indem sie für das Unternehmen (das sie vertreten) und nicht für den Kunden das Beste herausholen. Dies äußert sich meist durch Provisionen. In meinem Fall habe ich mir die Versicherung mit 16 Jahren “andrehen” lassen, als eine Versicherungsvertreterin reihenweise Schüler im Internat in dem ich lebte, ansprach. Hierzu bedurfte es kein besonderes Verkaufsgeschick, schon die Sinnhaftigkeit einer Altersvorsorge sowie der ausdrückliche Hinweis, dass Steuervergünstigungen bald verloren gehen würden, waren mir genug Argumente. Aus heutiger Sicht würde mich brennend interessieren, welcher Anteil meiner Beiträge dieser Vertreterin noch heute zugutekommt. Unter dem Gesichtspunkt, dass ich sie in Summe vielleicht zwei Stunden gesprochen habe und seit der Vertragsunterschrift nichts mehr von ihr gehört habe, denke ich, dass sie sich über ihre Entlohnung freuen kann. Die Höhe der Provision habe ich bei meiner Versicherungsgesellschaft angefragt, wurde jedoch leider nur damit vertröstet, dass ich auf diese Information keinen Anspruch hätte.&lt;/p&gt;
+
+&lt;p&gt;Links&lt;/p&gt;
+
+&lt;p&gt;[1] - https://geldkram.blogspot.com/2018/08/warum-sparen.html
+[2] - https://geldkram.blogspot.com/2018/08/grundlagen-der-passiven-geldanlage.html 
+[3] - https://geldkram.blogspot.com/2018/09/risiko-eine-frage-von-zeit-und-zeitpunkt.html
+[4] - https://de.wiktionary.org/wiki/gutes_Geld_schlechtem_hinterherwerfen 
+[5] - https://www.focus.de/finanzen/altersvorsorge/tid-8911/lebensversicherung_aid_237646.html&lt;/p&gt;</content><author><name></name></author><category term="[&quot;geldkram&quot;]" /><summary type="html">Die private Vorsorge fürs Alter, war einer der initialen Motivatoren, warum ich anfing meine Ersparnisse an den Kapitalmärkten zu investieren. Über meine Gedanken diesbezüglich habe ich detailliert in [1] sowie [2] geschrieben. Doch warum selber machen? Es gibt doch auch private Rentenversicherungen! Ich habe so eine, aber ist das sinnvoll? Als ich den Vertrag 2004 bei einer Versicherungsmaklerin unterschrieb, war ich 16. Vieles was mir erzählt wurde, klang sinnvoll, aber verstanden habe ich davon wenig. Ich sollte anfänglich kleine, über die Zeit wachsende monatliche Beiträge zahlen, um dann 2047 entscheiden zu dürfen, ob ich eine Kapitalabfindung oder aber eine monatliche Rente haben wolle. Und jetzt, 15 Jahren (2004) nach der Vertragsunterzeichnung? Ich zahle noch immer meine Beiträge. Diese sind mittlerweile gestiegen, aber nicht so hoch, als dass ich sie nicht aus Faulheit vergessen könnte. Ich glaube, das ist problematisch, also ziehen wir Bilanz:</summary></entry><entry><title type="html">Kaufen oder Mieten? - Buchempfehlung</title><link href="http://localhost:4000/blog/geldkram/2019/03/19/gk11-buchempfehlung-kaufen-oder-mieten.html" rel="alternate" type="text/html" title="Kaufen oder Mieten? - Buchempfehlung" /><published>2019-03-19T17:00:00+01:00</published><updated>2019-03-19T17:00:00+01:00</updated><id>http://localhost:4000/blog/geldkram/2019/03/19/gk11-buchempfehlung-kaufen-oder-mieten</id><content type="html" xml:base="http://localhost:4000/blog/geldkram/2019/03/19/gk11-buchempfehlung-kaufen-oder-mieten.html">&lt;p&gt;Kaufen oder Mieten? Das ist eine Frage, die sich meiner Meinung nach hierzulande viel zu wenige stellen. Oftmals wird der Immobilienerwerb als alternativlos und als die optimale Art der Altersvorsorge angesehen. Von “Betongold” und “Miete ist zum Fenster hinausgeworfenes Geld” ist die Rede.&lt;/p&gt;
+
+&lt;p&gt;“Der größte Feind der Wahrheit ist oft nicht die Lüge – gezielt, erfunden und unehrlich -, sondern der Mythos, etabliert, plausibel und falsch.” – John F. Kennedy&lt;/p&gt;
+
+&lt;p&gt;#todo bild einfügen&lt;/p&gt;
+
+&lt;p&gt;Gerd Kommer räumt in seinem Buch “Kaufen oder mieten?” mit derlei Mythen auf. Das klingt jetzt deutlich spannender und reißerischer als es ist. Gerd Kommers Annäherung an das Thema findet zwar deutliche Worte, bleibt dabei aber sachlich, geht sehr ausführlich auf historische Daten ein.&lt;/p&gt;
+
+&lt;p&gt;Folgende Punkte waren für mich aus dem Buch besonders interessant:&lt;/p&gt;
+
+&lt;p&gt;Obwohl es Immobilien deutlich länger als Aktien gibt, sind dennoch deren historische Daten wesentlich schwerer zu ermitteln. Langfristige Datenreihen (1890 – 2014) ergeben Wertsteigerungen von beispielsweise 1,2 % p.a. in Frankreich sowie 1,1 % p.a. in Norwegen (S. 23 ff., 2. Auflage 2016). Das verwunderte mich erst, dann wurde mir bewusst, dass es nicht überall Steigerungsraten wie in Berlin oder München gibt. Gerade in ländlichen strukturschwachen Gegenden sieht es hier deutlich schlechter aus. Jeder, der irgendwo hin zieht, muss schließlich auch irgendwo wegziehen.
+Kosten, die in der Besitzphase der Immobilie bestehen, werden häufig zu gering bemessen. Empfohlen wird, 2 %2 % p.a. des Gebäudewertes in Instandhaltung zu investieren (S. 50, 2. Auflage 2016). Das ergibt bei einem Hauswert von 200.000 € Kosten von 4000 € jährlich oder 333,33 € monatlich.
+Statistisch gesehen haben Eigenheimbesitzer ein deutlich höheres Nettovermögen als Mieter. Dies ist weniger der Immobilie an sich geschuldet, als der Tatsache, dass eine langjährige Verpflichtung, wie es ein Immobilienvertrag ist, einen Sparzwang darstellt. Ebenso sind Eigenheimbesitzer häufig zu Eigenheimbesitzern geworden, weil sie entweder überdurchschnittlich gut verdienen oder aber geerbt haben. (S. 77, 2. Auflage 2016)
+Eine Immobilie eignet sich entgegen der intuitiven Meinung nicht optimal als Altersvorsorge. In Zeiten, in denen die eigenen gesundheitlichen Einschränkungen wachsen, bleibt der Instandsetzungsbedarf sowie Aufwände für das Putzen gleich (siehe auch “Eigentum verpflichtet” Artikel 14 GG [1]). Auch die Größe der Immobilie bleibt gleich, obwohl etwaige Kinder vielleicht schon lange ausgezogen sind. Das kann mitunter zur Überforderung führen. Dies gilt auch für die finanzielle Lage. Wenn die Kosten aufgrund von Pflegeaufwand und Gesundheitsausgaben steigen, kann man nur selten ein Teil der selbstgenutzten Immobilie verkaufen. Für Wertpapiere gilt dies nicht. (S. 107, 2. Auflage 2016)
+Für mich war das Buch sehr interessant und ordnete meine Gedanken in einer Zeit, in der ich dies nötig hatte. Gerd Kommer geht auch noch ausführlich auf Entscheidungsgrundlage nicht finanzieller Natur ein (S. 138 ff., 2. Auflage 2016), der sogenannten Lebensstilentscheidung. Für mich ist es genau dies. Hätte ich Lust mich gestalterisch an einer Immobilie zu versuchen und würde ich mir nichts Schöneres vorstellen können, als meine eigene Leistung in eine Immobilie einzubringen, wäre es eine Option. Vielleicht mag dies auch irgendwann der Fall sein. Da dies aber gegenwärtig nicht der Fall ist und auch wegen der niedrigen Zinsen die Immobilienpreise in meiner Wohngegend enorm gestiegen sind, ist es für mich aktuell gar keine Option und ich fühle mich sehr wohl mit meinem Aktiendepot.&lt;/p&gt;
+
+&lt;p&gt;Du solltest dieses Buch lesen wenn:
+du vor hast aus den richtigen Gründen eine Immobilie zu kaufen,
+du Halbwissen aus Familie, Freundeskreis oder Beratern hast und mit Mythen aufräumen möchtest
+oder du Alternativen kennenlernen willst, Geld anzulegen.&lt;/p&gt;
+
+&lt;p&gt;Falls ich dein Interesse für das Buch geweckt habe, findest du es beim Buchhändler deines Vertrauens:&lt;/p&gt;
+
+&lt;p&gt;Titel: Kaufen oder mieten?
+Autor: Dr. Gerd Kommer
+ISBN: 9783593501574
+Preis: ca. 25 €&lt;/p&gt;
+
+&lt;p&gt;Links&lt;/p&gt;
+
+&lt;p&gt;[1] - https://www.gesetze-im-internet.de/gg/art_14.html&lt;/p&gt;</content><author><name></name></author><category term="[&quot;geldkram&quot;]" /><summary type="html">Kaufen oder Mieten? Das ist eine Frage, die sich meiner Meinung nach hierzulande viel zu wenige stellen. Oftmals wird der Immobilienerwerb als alternativlos und als die optimale Art der Altersvorsorge angesehen. Von “Betongold” und “Miete ist zum Fenster hinausgeworfenes Geld” ist die Rede.</summary></entry><entry><title type="html">Investieren mit (grünen) Anleihen</title><link href="http://localhost:4000/blog/geldkram/2019/02/07/gk10-gruene-anleihen.html" rel="alternate" type="text/html" title="Investieren mit (grünen) Anleihen" /><published>2019-02-07T17:00:00+01:00</published><updated>2019-02-07T17:00:00+01:00</updated><id>http://localhost:4000/blog/geldkram/2019/02/07/gk10-gruene-anleihen</id><content type="html" xml:base="http://localhost:4000/blog/geldkram/2019/02/07/gk10-gruene-anleihen.html">&lt;p&gt;Für das Jahr 2019 habe ich mir vorgenommen, mich zum Thema Anleihen schlau zu machen und einen bestimmten Betrag zu investieren, wenn sich das Thema als interessant herausstellen sollte.&lt;/p&gt;
+
+&lt;p&gt;Was sind Anleihen?&lt;/p&gt;
+
+&lt;p&gt;Da Anleihen ein komplexeres Konstrukt als beispielsweise Aktien sind, habe ich um Anleihen bislang meist einen Bogen gemacht. Jedoch gelten Anleihen zum Teil als risikoarme festverzinsliche Wertpapiere. Das Video von Finanzfluss [1] habe ich geschaut, um mein grundsätzliches Verständnis aufzufrischen. Das Video ist einsteigerfreundlich gestaltet und geht auf die Grundbegriffe von Anleihen ein.&lt;/p&gt;
+
+&lt;p&gt;Hier eine kleine Zusammenfassung für dich:&lt;/p&gt;
+
+&lt;p&gt;Definition: “Eine Anleihe […] ist ein zins­tragendes Wertpapier. Es handelt sich um ein Wertpapier, das dem Gläubiger das Recht auf Rückzahlung sowie auf Zahlung vereinbarter Zinsen einräumt. […] Typischerweise dienen Anleihen dem Schuldner zur […] Fremdfinanzierung und dem Gläubiger zur Kapitalanlage. Zur Wertpapiergattung der Anleihen zählen Staatsanleihen […], Unternehmensanleihen […]” (Zitat von Wikipedia [2] Stand 06.02.2019 )
+Der Nennwert ist der Wert einer einzelnen Anleihe zum Ausgabezeitpunkt. Beispielsweise könnte eine Anleihe einen Nennwert von 100 € haben, wenn ein Unternehmen 100.000 € Kredit erhalten will und hierzu 1000 Anleihen ausgibt. 
+Der Kuponzins ist die Verzinsung auf den Nennwert der Anleihe, die regelmäßig gezahlt wird.
+Die Laufzeit beschreibt, wie lange die Verzinsungsphase läuft, bis die Anleihe zurückgezahlt wird.&lt;/p&gt;
+
+&lt;p&gt;Weitere Literatur zu diesem Thema habe ich bei meiner Bank gefunden, die das Thema zwar trockener aber umfänglicher erläutert. Es gibt noch sehr viele verschiedene Arten von Anleihen, wie zum Beispiel Wandelanleihen, die unter bestimmten Umständen in Aktien umgewandelt werden können. Ich möchte zunächst, um solche Sonderfälle einen Bogen machen, um mich zunächst auf einfachere Konstrukte zu konzentrieren. Wenn ich Aktien will, dann kaufe ich mir welche und verwende dafür keine Wandelanleihen, auch wenn es sicherlich Situationen geben mag in denen dies sinnvoll sein mag.&lt;/p&gt;
+
+&lt;p&gt;Niedrigzinsphase&lt;/p&gt;
+
+&lt;p&gt;Zusätzlich habe ich mir dann das Video [3] angesehen, um eine Einordnung von Anleihen in die aktuelle Situation der Niedrigzinsphase zu erhalten. Das Ergebnis ist, dass die Investition in Anleihen aktuell wenig Sinn ergibt, ja sogar zum Teil mit negativer Rendite aufwartet (auch vor Einberechnung der Inflation). Das Video geht hierbei aber vor allem auf die als hoch sicher geltenden Staatsanleihen, die es zum Beispiel in Deutschland gibt, ein. Anders kann das Thema bei Unternehmensanleihen aussehen. Diese sind jedoch nicht grundlos mit ungleich höheren Zinsen versehen. Sie kommen auch mit einem deutlich höheren Verlustrisiko daher. Verglichen mit Aktien ist das Risiko zwar dennoch geringer, da Anleihen im Insolvenzfall gegenüber Aktionären bevorzugt aus der Insolvenzmasse bedient werden. Auf der anderen Seite haben Aktien keine feste Rendite, können also auch besser performen. Anleihen können jedoch trotzdem interessant sein um den risikoarmen Anteil am eigenen Vermögen. Hierbei liegt der Vergleich zum Festgeld nahe, da man die Anleihe zwar zwischenzeitlich verkaufen kann, hierbei allerdings zum Teil Abschläge hinnehmen muss. Hingegen am Ende der Laufzeit eine komplette Rückzahlung erfolgt.&lt;/p&gt;
+
+&lt;p&gt;Einfluss ausüben&lt;/p&gt;
+
+&lt;p&gt;Auch wenn gegenwärtig keine “goldenen Anleihenzeiten” herrschen, interessiert mich das Thema. Den Grund hierfür finde ich ebenso in Aktien.
+Aktien erschienen mir unter anderem deswegen attraktiv, da ich mit meinen (finanziellen) Mitteln etwas bewegen kann. Indem ich Aktien von Unternehmen kaufe, die Gutes tun, würde auch ich etwas Gutes tun, so dachte ich einst. Mittlerweile weiß ich, dass ich Aktien nur von anderen Aktionären kaufe und das Unternehmen keineswegs zusätzliches Kapital für “Gutes” hat. Hierfür müsste ich entweder bei Börsengängen oder bei Kapitalerhöhungen mitbieten. Das habe ich auch gemacht , jedoch kommt das mit einigen Problemen daher. Auch wenn es nicht ganz so schwarz ist, wie ich es jetzt darstelle. Stützkäufe, die den Stand eines Unternehmens festigen, sind schließlich auch ein Beitrag.
+So habe ich die initiale Hoffnung auf Anleihen übertragen: Das Geld, welches ich in Anleihen investiere, würde einer Unternehmung zugutekommen! Wenn ich also Anleihen von Unternehmen, die etwas Gutes vorhaben, kaufen würde, würde ich dieses Vorhaben mit ermöglichen. Leider ist auch dies nicht so wahr. Schließlich müsste ich hierzu investieren, wenn Anleihen emittiert würden (also das gleiche Spiel wie bei Börsengängen / IPOs), ansonsten würde ich sie auch nur wieder von einem Anleihehalter übernehmen.&lt;/p&gt;
+
+&lt;p&gt;Warum ist mir der Faktor “Einfluss ausüben” wichtig?&lt;/p&gt;
+
+&lt;p&gt;Ich bin überzeugt von grünen beziehungsweise nachhaltiger Geldanlage. Mein Geld soll nicht dort hinfließen, wo es die höchste Rendite gibt (Öl-, Waffen- und Tabakkonzerne), sondern überwiegend in Unternehmungen, die nachhaltig agieren und auf Raubbau an Mensch und Umwelt verzichten. Optimalerweise möchte ich von der Mission eines Unternehmens auch noch überzeugt sein. Das führt mich unweigerlich zu dem Thema der grünen Anleihen.&lt;/p&gt;
+
+&lt;p&gt;Der Artikel [4] gab mir hier eine kleine Einführung in das Thema grüne Anleihen. Zum einen wird der Unterschied von grünen Anleihen (Green Bonds) und Nachhaltigkeitsanleihen herausgearbeitet:
+Green Bonds sind Anleihen, die explizit auf die Förderung von Projekten wie Windkraft, Solarkraft, etc. zielen
+Nachhaltigkeitsanleihen sind ganz normale Anleihen, die mit einem Verfahren bestimmte Themengebiete wie Rüstungsindustrie, Glücksspiel oder Tabak ausschließen.&lt;/p&gt;
+
+&lt;p&gt;Schön ist auch, dass der Artikel direkt auf ETFs aus grüne Anleihen eingeht. Das Tolle daran ist, dass ich mich nicht selbst darum zu kümmern brauche, wann eine Anleihe abläuft (also zurückgezahlt wird) und auch nicht wie man diversifiziert. Beides bekomme ich über den richtigen Anleihen-ETF quasi geschenkt. Da das Thema noch recht jung zu sein scheint, ist die Auswahl solcher ETFs leider recht dürftig. Auf justETF [5] habe ich tatsächlich nur zwei gefunden. Beide sind zudem noch sehr klein und es stehen nicht sehr viele Informationen (zumindest nicht auf dieser Plattform) zur Verfügung. Auch der Kuponzins ist mit unter 2 % aus meiner Sicht nicht attraktiv.
+Weitere Recherche auf anderen Seiten ergab leider nicht viel mehr. Zwar nehme ich wahr, dass das Thema ein Trend zu sein scheint, aber zumindest jetzt noch nicht für meine Ansprüche genügt, um auch größere Summen zu investieren. Hierzu bräuchte ich eine Auswahl von einfach verständlichen, gut (nach Möglichkeit weltweit) diversifizierten ETFs aus Anleihen, die zumindest eine Rendite von 4 % nicht unterschreiten sollten. Ich denke, letzteres ist schon aufgrund der aktuellen Niedrigzinsphase kaum möglich. Ich werde das Thema weiter beobachten und hoffe, dass es sich weiterentwickelt und auch für mich bald attraktiv wird. Vielleicht wage ich auch einen Testballon mit einer kleineren Summe, um bei dieser Entwicklung aktiver dabei zu sein. Ich erwarte, dass die Zinsen der Notenbanken in den nächsten Jahren wieder steigen und meinem Verständnis nach sollten Anleiherenditen dieser Entwicklung folgen.&lt;/p&gt;
+
+&lt;p&gt;Links und Weiterführendes&lt;/p&gt;
+
+&lt;p&gt;[1] - https://www.youtube.com/watch?v=3TgvUUbPVaA
+[2] - https://de.wikipedia.org/w/index.php?title=Anleihe&amp;amp;oldid=184395742
+[3] - https://www.youtube.com/watch?v=JNHYi7l_W2o
+[4] - https://www.test.de/Green-Bonds-Gruene-Anleihen-fuer-gutes-Klima-wie-funktioniert-das-5159519-0/
+[5] - https://www.justetf.com/de/find-etf.html?groupField=index&amp;amp;tab=overview&amp;amp;query=green++bond
+[6] - https://www.die-gdi.de/analysen-und-stellungnahmen/article/gruene-anleihen-ohne-rosarote-brille-betrachtet/&lt;/p&gt;</content><author><name></name></author><category term="[&quot;geldkram&quot;]" /><summary type="html">Für das Jahr 2019 habe ich mir vorgenommen, mich zum Thema Anleihen schlau zu machen und einen bestimmten Betrag zu investieren, wenn sich das Thema als interessant herausstellen sollte.</summary></entry><entry><title type="html">Wann ist eigentlich genug mit dem Sparen?</title><link href="http://localhost:4000/blog/geldkram/2019/01/18/gk9-wann-ist-genug.html" rel="alternate" type="text/html" title="Wann ist eigentlich genug mit dem Sparen?" /><published>2019-01-18T17:00:00+01:00</published><updated>2019-01-18T17:00:00+01:00</updated><id>http://localhost:4000/blog/geldkram/2019/01/18/gk9-wann-ist-genug</id><content type="html" xml:base="http://localhost:4000/blog/geldkram/2019/01/18/gk9-wann-ist-genug.html">&lt;p&gt;Gibt es den Moment, in dem ich fertig bin und einfach mein ganzes Einkommen “verprassen” kann? Sicher, es gibt viele Menschen, welche dies schon jetzt tun und dabei nicht bei der Höhe ihres Einkommens aufhören, sondern auch darüber hinaus konsumieren - Stichwort Verschuldung. Wenn du hingegen bis hierher meinen Blog gelesen hast, gehörst du entweder nicht dazu oder willst es nicht mehr. Wenn dem so ist, gratuliere ich dir! Aber musst du deswegen bis in die Ewigkeit den Gürtel enger schnallen, dich zurückhalten und sparen? Wie bei allem im Leben: das kommt darauf an! Lass mich damit beginnen, wie sich das bei mir entwickelt hat:&lt;/p&gt;
+
+&lt;p&gt;Wann bin ich fertig?&lt;/p&gt;
+
+&lt;p&gt;Als ich mit 24 Jahren ins Berufsleben einstieg, kam ich zum ersten Mal in Kontakt mit einem größeren Einkommen. Zwar hatte ich schon vorher ein wenig gespart, da man aber als BAföG-Empfänger eine bestimmte Vermögenshöhe nicht übersteigen darf, waren meine Möglichkeiten eingeschränkt. 
+Angefangen hat es bei mir mit einem unguten Gefühl betreffend unseres Rentensystems (darüber habe ich bereits etwas ausführlicher geschrieben [1]). Da ich mit Bankberatung eher mäßige Erfahrungen gemacht habe, beschloss ich selbst etwas zu tun und las als Einstieg “Geldanlage für Faule” von Stiftung Warentest. Das ist ein sehr zugänglicher Ratgeber zum Thema Finanzen, zu dem keinerlei Vorkenntnisse erforderlich sind. Das genügt, um mich zu motivieren, mir ein Depot zu eröffnen und mit dem Investieren zu beginnen.
+Mein anfängliches Ziel war es, meine Rentenlücke zu schließen, ohne diese überhaupt genau zu kennen. Das lief so ein paar Jahre und ich konnte meine Sparrate regelmäßig erhöhen. Mittlerweile habe ich mehr und mehr auf Ausschüttungen geachtet, welche mich zusätzlich motivieren konnten weiter zu machen. Diese Summe steigt Jahr für Jahr und wächst langsam zu einem ansehnlichen Betrag zusammen, quasi einem zweiten Gehalt. Aus Interesse habe ich ein paar Online-Rechner ausprobiert sowie eigene Berechnungen angestellt und festgestellt: Siehe da, Rente ist gar nicht mehr so das Problem. Falls es so weiterläuft, habe ich vielleicht auch ein paar andere Optionen. Vielleicht werde ich von den Ausschüttungen allein leben können und das kann auch schon früher als zum Renteneintrittsalter sein, eventuell auch 10 oder 20 Jahre früher. Ich könnte aber auch meine Sparbemühungen reduzieren und beispielsweise in Teilzeit gehen und meinen Hobbys und Leidenschaften nachgehen. All das und vieles Mehr scheint möglich geworden zu sein. 
+Das war jetzt eine ganze Menge “vielleicht” und “eventuell” und natürlich wird vieles beeinflusst von Dingen, die ich nicht beeinflussen kann und hängt von meinen weiteren Entscheidungen auf meinem Lebensweg ab. Nichtsdestotrotz ermöglicht mir mein Sparen Optionen, die ich als sinnvoll und erstrebenswert erachte und mich deshalb zum Weitermachen motivieren. Mir hat das Sparen beispielsweise gezeigt, das es im Leben auch andere Modelle gibt, als das immerwährende Eintauschen von (Arbeits-)Zeit gegen Geld und das Ausgeben selbigen. Für welche dieser Optionen ich mich entscheiden werde, weiß ich noch nicht, aber ich freue mich darauf es herauszufinden.&lt;/p&gt;
+
+&lt;p&gt;Sparziel - wann hast du genug gespart?&lt;/p&gt;
+
+&lt;p&gt;Um zu wissen, wann du genug gespart hast, solltest du als Erstes deine Ziele erkunden.
+Wenn ich von Freunden darum gebeten wurde ein paar Grundlagen zum Thema Finanzen zu vermitteln, habe ich oft gefragt: Was erhoffst du dir von so einer Einführung? Mehrfach bekam ich Antworten, die auf das “Reich werden” abzielten. Ich mag den Begriff Reichtum nicht sonderlich. Er sagt zu wenig aus. Wo viele Menschen aus unserem Kulturkreis mit Reichtum große Geldmengen wie von Warren Buffett oder Bill Gates verstehen, was auch sicherlich richtig ist. Hingegen würden viele Menschen in Afrika schon einen deutschen Hartz4-Empfänger als reich ansehen, weil dieser nicht hungern muss. Dazwischen gibt es sicherlich viele Abstufungen. Der Begriff ist also hochgradig relativ. 
+“Reich werden” eignet sich also denkbar schlecht als Ziel, zumindest wenn man nicht eine eigene klare Bedeutung im Kopf hat (ein kleiner aber lohnender Ausflug zu klareren Zielen bietet das Akronym SMART [2]).
+Da meine Erläuterungen bislang vornehmlich auf die Alterssicherung hinzielten, schlage ich zunächst vor die eigene Rentenlücke zu ermitteln. Rentenrechner gibt es im Internet wie Sand am Meer, ein sehr einfachen findet man beim BVI Bundesverband Investment und Asset Management e. V. [3]. Natürlich ist das nur eine sehr oberflächliche Betrachtung, mehr Details solltest du hier [4] finden, benötigen dann aber ein wenig mehr Arbeit. Ausgehend von deiner Rentenlücke kannst du nun schauen, ob du durch private Rentenversicherungen oder ähnliches bereits genug vorgesorgt hast oder nicht. Diese Lücke zu schließen halte ich für das Wichtigste, was du tun solltest. Alles darüber hinaus ist Bonus. Um einfach mal zu schauen, auf welches monatliche Einkommen du durch deine Investments kommst, helfen auch wieder diverse online Tools. Besonders zugänglich und hilfreich fand ich [5] sowie [6].&lt;/p&gt;
+
+&lt;p&gt;Beispielrechnung&lt;/p&gt;
+
+&lt;p&gt;Schauen wir uns mal als Beispielrechnung unseren Durchschnittsdeutschen aus dem vorherigen Artikel [7] an. Dieser Spart monatlich 390 €. Nehmen wir zusätzlich an dieser ist 30 Jahre alt und hat bereits 20.000 € als Initialinvestment. Wenn ich diese Daten in das Tool aus [5] eingebe (da das Tool nur 50er Schritte unterstützt habe ich eine Sparrate von 400 € gewählt), komme ich zu dem folgenden Ergebnis:&lt;/p&gt;
+
+&lt;p&gt;#todo bild einfügen&lt;/p&gt;
+
+&lt;p&gt;(Quelle: https://www.workfortime.com/investment-calculator/)&lt;/p&gt;
+
+&lt;p&gt;Zunächst einmal fällt auf, das Tool unterstützt nur Dollar. Das ist aber nicht schlimm, die Rechnung sähe in Euro gleich aus. Spannender hingegen ist, das bei einem Renteneintritt mit 67 eine Summe von etwa 622.000 € zusammengespart wurde, was einer monatlichen “Rente” von etwa 2.000 € entspricht. Hier zugrunde liegen folgende Annahmen:
+Der Proband spart durchgehend 400 € pro Monat.
+Die jährliche Entwicklung / Verzinsung des angelegten Geldes beträgt 5 %.
+Ausschüttungen werden in der Ansparphase komplett reinvestiert.
+Mit dem Renteneintritt wird jährlich nur 4 % des angesparten aufgezehrt, um die Rente stabil zu halten. Dies lässt sich beispielsweise über Dividenden realisieren.&lt;/p&gt;
+
+&lt;p&gt;2000 € ist eine Menge Geld. Vergiss aber nicht, das unter der Berücksichtigung einer Inflation von 2 % 2000 € in 37 Jahren (Proband wird 67 Jahren) nur einer heutigen Kaufkraft von etwa 960 € entspricht. Hier hilft der Rechner auf [8], um ein wenig mit den Zahlen zu spielen. 960 € würden dennoch noch für viele Ausgaben reichen.
+Leider ist auch diese Zahl mit Vorsicht zu genießen. Nicht nur das dir niemand sagen kann, welche Inflationsrate genau kommen wird. Ebenso unterscheidet sich die Ausgabenstruktur gegenüber einem normalen Sozialversicherungspflichtigen Arbeitnehmerverhältnisses. Auf Kapitalerträge gelten aktuell 25 % Kapitalertragssteuer + Solidaritätszuschlag. Falls du nun auch deinen Job aufgeben würdest, müsstest du dich beispielsweise selbst krankenversichern und auch selbst die gesamten Beiträge Zahlen.
+Was passiert nun, wenn wir als Annahme noch eine etwas optimistische jährliche Verzinsung annehmen? Gehen wir mal von etwa 8 % jährlich aus, was etwa dem Renditedreieck des DAX auf [9] zu entnehmen ist.&lt;/p&gt;
+
+&lt;p&gt;#todo bild einfügen&lt;/p&gt;
+
+&lt;p&gt;(Quelle: https://www.workfortime.com/investment-calculator/)&lt;/p&gt;
+
+&lt;p&gt;Nun, die höhere Verzinsung reicht offensichtlich aus, dass er eine ähnliche Summe nun schon 10 Jahre früher erreichen würde.
+Das Tool ist toll, um ein wenig mit Zahlen zu spielen und ein Gefühl für die Größenordnung zu bekommen. Die genaue Rendite in den nächsten Jahrzehnten kann jedoch niemand voraussagen. Man sollte also nicht zu viel auf solche Berechnungen geben. Sicher ist nur, Investieren schafft Handlungsoptionen im Leben.&lt;/p&gt;
+
+&lt;p&gt;Referenzen
+[1] - https://geldkram.blogspot.com/2018/08/warum-sparen.html
+[2] - https://de.wikipedia.org/wiki/SMART_(Projektmanagement)
+[3] - https://www.bvi.de/kapitalanlage/privatanleger/rechner/rentenluecken-rechner/
+[4] - https://www.deutsche-rentenversicherung.de/Allgemein/de/Navigation/5_Services/02_online_dienste/03_online_rechner_nutzen/online_rechner_node.html
+[5] - https://www.workfortime.com/investment-calculator
+[6] - https://frugalisten.de/rechner/
+[7] - https://geldkram.blogspot.com/2018/12/sparquote.html
+[8] - https://www.zinsen-berechnen.de/inflationsrechner.php
+[9] - https://geldkram.blogspot.com/2018/09/risiko-eine-frage-von-zeit-und-zeitpunkt.html&lt;/p&gt;</content><author><name></name></author><category term="[&quot;geldkram&quot;]" /><summary type="html">Gibt es den Moment, in dem ich fertig bin und einfach mein ganzes Einkommen “verprassen” kann? Sicher, es gibt viele Menschen, welche dies schon jetzt tun und dabei nicht bei der Höhe ihres Einkommens aufhören, sondern auch darüber hinaus konsumieren - Stichwort Verschuldung. Wenn du hingegen bis hierher meinen Blog gelesen hast, gehörst du entweder nicht dazu oder willst es nicht mehr. Wenn dem so ist, gratuliere ich dir! Aber musst du deswegen bis in die Ewigkeit den Gürtel enger schnallen, dich zurückhalten und sparen? Wie bei allem im Leben: das kommt darauf an! Lass mich damit beginnen, wie sich das bei mir entwickelt hat:</summary></entry><entry><title type="html">Sparquote</title><link href="http://localhost:4000/blog/geldkram/2018/12/31/gk8-sparquote.html" rel="alternate" type="text/html" title="Sparquote" /><published>2018-12-31T17:00:00+01:00</published><updated>2018-12-31T17:00:00+01:00</updated><id>http://localhost:4000/blog/geldkram/2018/12/31/gk8-sparquote</id><content type="html" xml:base="http://localhost:4000/blog/geldkram/2018/12/31/gk8-sparquote.html">&lt;p&gt;In den letzten Artikeln habe ich gezeigt, warum sparen wichtig ist, und, wie du das auch mit wenig Aufwand und Vorkenntnissen am Aktienmarkt mit einer vernünftigen Rendite machen kannst. Aber wie viel von deinem Einkommen solltest du nun sparen? 
+Das Buch “der reichste Mann von Babylon”, was ein leichtgewichtiger mit Metaphern arbeitender Sparratgeber ist, empfiehlt hier z. B. 10 %. Das heißt, vom Nettogehalt solltest du regelmäßig 10 % sparen (Interessanterweise deckt sich das auch fast mit der durchschnittlichen Sparleistung der Deutschen [1]). Darüber hinaus sollst du auch von Gehaltserhöhungen direkt einen Teil nutzen, um die Sparrate zu erhöhen. Dies hat den netten Nebeneffekt, dass du dich nicht direkt nach einer Gehaltserhöhung an einen höheren Konsum gewöhnst. Du fühlst also eine kleine Besserung des Lebensstandards bei ebenso steigender Sparrate. Das kann ich alles unterschreiben und unterstützen. 
+Ich finde allerdings, man kann nicht einfach pauschal 10 % als Sparquote empfehlen. Das muss aus meiner Sicht jeder individuell für sich entscheiden. Da ich beispielsweise als Softwareentwickler gut verdienen - im Vergleich zu finanziell schlechter honorierten Jobs in der Pflege oder im Gastronomie Gewerbe - und zusätzlich noch gerne sparsam lebe, kann ich mir eine hohe Sparrate leisten. Ich habe den Luxus, das ich meine Sparrate an mein Leben orientieren lassen kann und nicht, das der Zwang zum Sparen mein Leben diktiert. Ich bin davon überzeugt, dass diesen Luxus nicht jeder genießt. Gerade jene, die ein relativ geringes Einkommen und eine niedrige Sparquote haben, sollten sich dazu verstärkt motivieren, da sie im Alter andernfalls besonders schlecht da stehen. Ein Satz, den ich las, hat mich hier einmal zum Nachdenken gebracht, er lautet inhaltlich wie folgt: “Gutverdienende können höhere Risiken eingehen, um im Alter ein Zubrot durch die Ersparnisse zu haben, Schlechtverdiener müssen es!”&lt;/p&gt;
+
+&lt;p&gt;Wie habe ich meine Sparrate festgelegt?&lt;/p&gt;
+
+&lt;p&gt;Um meine monatliche Sparrate festzulegen, habe ich mir meine Ausgaben angesehen. Hierzu gehört alles, was ich zum Leben benötige: Wohnung, Essen, Versicherungen. Darüber hinaus war mir auch der Genuss wichtig: Restaurantbesuche, Reisen, “Spaßausgaben” wie Computerspiele Unterhaltungstechnik. Meine Sparrate errechne ich durch meinen monatlichen Nettoverdienst minus der Ausgaben und den Abzug eines Puffers. Zunächst ging bei mir der Puffer auf ein Tagesgeldkonto, um für Eventualitäten gewappnet zu sein. Falls ich mein Einkommen verlieren sollte, möchte ich ein paar Monate zur Neuorientierung haben, um einen beispielsweise einen neuen Job zu finden. Es geht im Grunde hierbei um ein Geldpolster, den ich in Notlagen nutzen kann, ohne an meine Investitionen aufzehren zu müssen. Ich sehe für diesen Puffer eine Größe von 3 bis 6 Netto-Monatsgehältern vor. Nachdem dieser Puffer gefüllt ist, leite ich meine gesamte Sparrate an die Aktienmärkte.&lt;/p&gt;
+
+&lt;p&gt;Empfehlung zur Sparrate&lt;/p&gt;
+
+&lt;p&gt;Solang du mit dieser Rechnung zurechtkommst und am Ende mit einer ansehnlichen Sparrate herauskommst, kannst du dich glücklich schätzen. Im Folgenden habe ich eine kleine Beispielrechnung angestellt.&lt;/p&gt;
+
+&lt;p&gt;Einnahmen
+Nettolohn
+100 %
+1.890 €&lt;/p&gt;
+
+&lt;p&gt;Ausgaben
+Schulden
+5,29 %
+100 €
+Wohnen (Warmmiete, Internet, Strom)
+26,46 %
+500 €
+Versicherungen
+10,58 %
+200 €
+Essen, Kleidung, Vergnügen
+21,16 %
+400 €
+Urlaub
+5,29 %
+100 €
+Puffer
+10,58 %
+200 €
+Sparen
+20,63 %
+390 €
+Insgesamt:
+100,00 %
+1.890 €&lt;/p&gt;
+
+&lt;p&gt;Die Werte spiegeln kein “so muss es sein” dar, jedoch von oben nach unten eine gewisse Priorität der Ausgaben. Ich habe lediglich anhand von einfacher Recherche ein paar Richtwerte für den “Durchschnittsdeutschen” gesucht. Dieser verdient durchschnittliche 1890 € netto im Monat [2], gibt etwas weniger als 200 € für Versicherungen [3] und etwas weniger als 100 € für Reisen [4] im Monat aus. Die restlichen Werte habe ich anhand von Erfahrungswerten grob festgelegt. Bei diesem Rechenbeispiel bleibt am Ende eine Sparquote von etwa 20 % übrig was 390 € entspricht. Ich finde, das dies, über einen langen Zeitraum genommen, bereits eine ist. Natürlich wird dies in der Realität von Einzelfall zu Einzelfall unterschiedlich sein. Es gibt sogar Menschen, die mit einer Sparrate von über 50 % gut leben und sich nach wenigen Jahrzehnten schon zur Ruhe setzen können oder wollen. Das ist ein Trend, der meines Wissens in den USA startete und mittlerweile auch bei uns unter dem Begriff Frugalismus [5] anzutreffen ist. Zu diesem Thema kann ich den Blog des selbsternannten Frugalisten Oliver empfehlen [6].
+Menschen die geradeso mit ihrem Einkommen über die Runden kommen, müssen auf das Problem mit anderen Augen schauen. Da ich (zum Glück) nicht in dieser Lage bin, kann ich hier leider keine Expertentipps geben. Aber gerade diese Menschen sind im Alter von Armut am stärksten bedroht [7]. Sie sollten also ganz besonders darüber nachdenken, ob sie nicht entweder an bestimmten Stellen im Leben Konsum reduzieren können (unnötige Versicherungen, unnötiges Auto, Tabak, Alkohol) um zu einer Sparrate zu kommen. Ein anderer Weg wäre die Weiterbildung und Erschließung neuer Einkommensquellen. Ein paar weitere Ideen kann man auch in [8] finden.&lt;/p&gt;
+
+&lt;p&gt;Referenzen&lt;/p&gt;
+
+&lt;p&gt;[1] - https://www.tagesgeldvergleich.net/statistiken/sparquote.html
+[2] - https://de.statista.com/themen/293/durchschnittseinkommen/
+[3] - https://www.handelsblatt.com/finanzen/vorsorge/versicherung/europaweiter-vergleich-jeder-deutsche-zahlt-2219-euro-im-jahr-fuer-versicherungen/9506130.html?ticket=ST-3460887-fV6b2mnDYC4YIT9dUQW9-ap1
+[4] - https://www.sueddeutsche.de/geld/tourismus-oma-packt-die-koffer-1.2335580
+[5] - https://de.wikipedia.org/wiki/Bescheidenheit#Frugalismus
+[6] - https://frugalisten.de/
+[7] - https://geldkram.blogspot.com/2018/08/warum-sparen.html
+[8] - http://www.girokonto-und-geldanlage.de/sparen-2-0-weitere-ideen-um-deine-sparquote-zu-erhoehen/&lt;/p&gt;</content><author><name></name></author><category term="[&quot;geldkram&quot;]" /><summary type="html">In den letzten Artikeln habe ich gezeigt, warum sparen wichtig ist, und, wie du das auch mit wenig Aufwand und Vorkenntnissen am Aktienmarkt mit einer vernünftigen Rendite machen kannst. Aber wie viel von deinem Einkommen solltest du nun sparen? Das Buch “der reichste Mann von Babylon”, was ein leichtgewichtiger mit Metaphern arbeitender Sparratgeber ist, empfiehlt hier z. B. 10 %. Das heißt, vom Nettogehalt solltest du regelmäßig 10 % sparen (Interessanterweise deckt sich das auch fast mit der durchschnittlichen Sparleistung der Deutschen [1]). Darüber hinaus sollst du auch von Gehaltserhöhungen direkt einen Teil nutzen, um die Sparrate zu erhöhen. Dies hat den netten Nebeneffekt, dass du dich nicht direkt nach einer Gehaltserhöhung an einen höheren Konsum gewöhnst. Du fühlst also eine kleine Besserung des Lebensstandards bei ebenso steigender Sparrate. Das kann ich alles unterschreiben und unterstützen. Ich finde allerdings, man kann nicht einfach pauschal 10 % als Sparquote empfehlen. Das muss aus meiner Sicht jeder individuell für sich entscheiden. Da ich beispielsweise als Softwareentwickler gut verdienen - im Vergleich zu finanziell schlechter honorierten Jobs in der Pflege oder im Gastronomie Gewerbe - und zusätzlich noch gerne sparsam lebe, kann ich mir eine hohe Sparrate leisten. Ich habe den Luxus, das ich meine Sparrate an mein Leben orientieren lassen kann und nicht, das der Zwang zum Sparen mein Leben diktiert. Ich bin davon überzeugt, dass diesen Luxus nicht jeder genießt. Gerade jene, die ein relativ geringes Einkommen und eine niedrige Sparquote haben, sollten sich dazu verstärkt motivieren, da sie im Alter andernfalls besonders schlecht da stehen. Ein Satz, den ich las, hat mich hier einmal zum Nachdenken gebracht, er lautet inhaltlich wie folgt: “Gutverdienende können höhere Risiken eingehen, um im Alter ein Zubrot durch die Ersparnisse zu haben, Schlechtverdiener müssen es!”</summary></entry><entry><title type="html">Nutzen des Cost-Average-Effects bei Sparplänen</title><link href="http://localhost:4000/blog/geldkram/2018/11/30/gk7-cost-average-effect.html" rel="alternate" type="text/html" title="Nutzen des Cost-Average-Effects bei Sparplänen" /><published>2018-11-30T17:00:00+01:00</published><updated>2018-11-30T17:00:00+01:00</updated><id>http://localhost:4000/blog/geldkram/2018/11/30/gk7-cost-average-effect</id><content type="html" xml:base="http://localhost:4000/blog/geldkram/2018/11/30/gk7-cost-average-effect.html">&lt;h1 id=&quot;todo-post-referenz-fixen&quot;&gt;todo post referenz fixen&lt;/h1&gt;
+
+&lt;p&gt;Wie im Artikel &lt;a href=&quot;https://geldkram.blogspot.com/2018/09/risiko-eine-frage-von-zeit-und-zeitpunkt.html&quot;&gt;“Risiko, eine Frage von Zeit und Zeitpunkt”&lt;/a&gt; erörtert, ist der &lt;a href=&quot;https://de.wikipedia.org/wiki/Durchschnittskosteneffekt&quot;&gt;Cost-Average-Effect&lt;/a&gt; ein Mechanismus, der zur Regulierung des Anlagerisikos dient. Um diesen zu nutzen, verteilt man eine größere Geldanlage auf mehrere kleinere Beträge und investiert diese in einem - nach Möglichkeit - festen Zeitabstand. Hierdurch verringerst du das Risiko, dass du bei Marktschwankungen zu einem bestimmten Kurs Aktien kaufst, deren Wert dann jedoch fällt, jedoch auch die Chance, dass genau das Gegenteil passiert und der Kurs steigt. Um diesen Effekt zu veranschaulichen, hier eine kleine Grafik:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/geldkram/gk7-cost-average-effect.png&quot; alt=&quot;Cost-Average-Effect Beispielrechnung&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Auf den ersten Blick ein wenig verwirrend, erkennst du hier Verschiedenes. Zum einen den in blau angezeigten Preis eines fiktiven Wertpapiers pro Stück (linke vertikale Skala). Auf der rechten Seite (vertikale Skala) sieht man, die Anzahl der gekauften Anteile, die im mittigen Bereich über Balken dargestellt sind. Die fiktive Situation umfasst ein Wertpapier, welches zunächst vom Wert fällt und anschließend wieder steigt. Jeder der Anleger investiert 500 € nach verschiedenen Strategien:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cash-online.de/versicherungen/2018/altersarmut-immer-mehr-rentner-muessen-arbeiten/431739&quot;&gt;Altersarmut: Immer mehr Rentner müssen arbeiten&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cash-online.de/versicherungen/2019/so-gross-ist-die-finanzierungsluecke-bei-der-rente/454163&quot;&gt;So groß ist die Finanzierungslücke bei der Rente&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="[&quot;geldkram&quot;]" /><summary type="html">Warum sollte man eigentlich sparen? Nun, es gibt eine Menge guter Gründe. Die meisten lassen sich in die beiden folgenden Kategorien einordnen:</summary></entry><entry><title type="html">Was tun mit dem Geld? Sparen!</title><link href="http://localhost:4000/blog/geldkram/2018/08/11/geldkram-sparen.html" rel="alternate" type="text/html" title="Was tun mit dem Geld? Sparen!" /><published>2018-08-11T18:00:00+02:00</published><updated>2018-08-11T18:00:00+02:00</updated><id>http://localhost:4000/blog/geldkram/2018/08/11/geldkram-sparen</id><content type="html" xml:base="http://localhost:4000/blog/geldkram/2018/08/11/geldkram-sparen.html">&lt;p&gt;Als ich nach meinem Informatikstudium anfing als Softwareentwickler zu arbeiten, hatte ich plötzlich auf ein wesentlich größeres Einkommen Zugriff als vorher noch als Student. Dies brachte mich in die komfortable Lage, mir darüber Gedanken machen zu können / müssen was ich mit diesem zusätzlichen Geld anstellen sollte. Ich sah hierbei grundlegend zwei Möglichkeiten:&lt;/p&gt;
+  &lt;li&gt;Anleger 1 investiert sein gesamtes Kapital in Monat 2.&lt;/li&gt;
+  &lt;li&gt;Anleger 2 investiert sein gesamtes Kapital in Monat 1.&lt;/li&gt;
+  &lt;li&gt;Anleger 3 folgt dem Cost-Average-Effect und investiert jeden Monat 100 €.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Meinen Lebensstandard erhöhen und mein Einkommen zu verkonsumieren.&lt;/li&gt;
-  &lt;li&gt;Sparen.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h1 id=&quot;wie-stehen-die-3-anleger-nun-nach-den-5-monaten-da&quot;&gt;Wie stehen die 3 Anleger nun nach den 5 Monaten da?&lt;/h1&gt;
 
-&lt;p&gt;Da ich mit meinem Lebensstil weitestgehend zufrieden war (natürlich änderte sich auch einiges im Gegensatz zu meinem Studentenleben) und ich schon immer eher von sparsamer Natur war, entschloss ich mich Geld zu sparen. Doch wofür? Das war mir anfangs nicht ganz klar, ich hatte nur eine grobe Idee. Doch warum sollte man überhaupt sparen, und vor allem wie? Diesen Fragen, versuche ich in den nächsten Beiträgen auf die Spur zu gehen.&lt;/p&gt;</content><author><name></name></author><category term="[&quot;geldkram&quot;]" /><summary type="html">Als ich nach meinem Informatikstudium anfing als Softwareentwickler zu arbeiten, hatte ich plötzlich auf ein wesentlich größeres Einkommen Zugriff als vorher noch als Student. Dies brachte mich in die komfortable Lage, mir darüber Gedanken machen zu können / müssen was ich mit diesem zusätzlichen Geld anstellen sollte. Ich sah hierbei grundlegend zwei Möglichkeiten:</summary></entry></feed>
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Summe der Anteile&lt;/td&gt;
+      &lt;td&gt;Wert der Anlage&lt;/td&gt;
+      &lt;td&gt;Investiertes Kapital&lt;/td&gt;
+      &lt;td&gt;Kaufpreis pro Anteil&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Anleger 1&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;2.000,00 €&lt;/td&gt;
+      &lt;td&gt;500,00 €&lt;/td&gt;
+      &lt;td&gt;50,00 €&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Anleger 2&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;1.000,00 €&lt;/td&gt;
+      &lt;td&gt;500,00 €&lt;/td&gt;
+      &lt;td&gt;100,00 €&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Anleger 3&lt;/td&gt;
+      &lt;td&gt;5,17&lt;/td&gt;
+      &lt;td&gt;1.033,33 €&lt;/td&gt;
+      &lt;td&gt;500,00 €&lt;/td&gt;
+      &lt;td&gt;96,77 €&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Wie du siehst, kommt Anleger 1 mit einem Gesamtwert seiner Anlage von 2000 € am Ende zum besten Ergebnis. Das verwundert nicht, er hat glücklicherweise gekauft, als der Preis am niedrigsten war. Das ist zwar wünschenswert, aber in der Realität kaum zu erreichen. Anleger 3 hingegen liegt, dank Cost-Average-Effect bereits auf Platz 2. Er kaufte zwar auch, als der Preis hoch war, jedoch mehr als der Preis gering war. Hierdurch verschaffte er sich am Ende einen Vorteil von etwa 33 € zu Anleger 2, der einfach sein gesamtes Geld in Monat 1 investierte. Eine Tabelle mit den Preisen und den einzelnen Kaufschritten findest du am Ende des Artikels.&lt;/p&gt;
+
+&lt;p&gt;Was sagt uns das jetzt? Der Cost-Average-Effect kann gerade in volatilen Märkten von Vorteil sein. Ich sehe seine Vorteile vor allem in der Automatisierung. Wenn ich eine gleichbleibende Summe im Monat spare, muss ich mir nicht jeden Monat erneut darüber Gedanken machen, wo ich wann anlege. Aber es gibt auch berechtigte Kritik an dem Cost Average-Effect. Ein wenig mehr dazu findest du &lt;a href=&quot;https://www.wiwo.de/finanzen/boerse/cost-averaging-ein-effekt-verpufft-an-der-realitaet/8906392.html&quot;&gt;hier&lt;/a&gt;. Aber auch für stetig im Wert steigende Wertpapiere bist du hiermit nicht optimal aufgestellt, weil du entgegen einer Einmalanlage mehr Gebühren zahlen kann (mehr dazu &lt;a href=&quot;https://www.youtube.com/watch?v=MbI6wEMHmJA&amp;amp;t=1s&quot;&gt;hier&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h1 id=&quot;wie-kannst-du-den-cost-average-effect-für-dich-nutzen&quot;&gt;Wie kannst du den Cost-Average-Effect für dich nutzen?&lt;/h1&gt;
+
+&lt;p&gt;Hierzu gibt es das Konstrukt der Sparpläne bei den meisten Brokern. Beim Erstellen eines Sparplans musst du definieren, welche Geldmenge auf welches Wertpapier in welcher Regelmäßigkeit investiert werden soll (ich gehe in meinen Artikeln  zumeist auf ETFs ein).
+Also nimm beispielsweise 100 € monatlich in einen ETF auf den MSCI World Index. Nun musst du nur noch dafür sorgen, dass auf dem Anlagekonto, welches dafür belastet wird, am entsprechenden Tag gedeckt ist. Du kannst zum Beispiel einen Dauerauftrag zu diesem Zweck einrichten. Auch kostenseitig hat dieses Modell meist Vorteile gegenüber dem einzelnen Kaufen: viele Banken bieten solche Sparpläne bereits recht günstig an (ein paar Vergleiche findest du &lt;a href=&quot;https://www.justetf.com/de/etf-sparplan/sparplan-vergleich.html&quot;&gt;hier&lt;/a&gt; und &lt;a href=&quot;https://www.extra-funds.de/vorsorgen-mit-etfs/etf-sparplan/&quot;&gt;hier&lt;/a&gt;). Gerade wenn du nur geringe Summen monatlich anlegen kannst oder willst, solltest du aber dennoch auf die Kostenquote achten. Bei 100 € im Monat wären diese bei meiner Bank für mich bereits am Limit dessen, was ich bereit wäre für Gebühren zu zahlen. Dies kannst du umgehen, indem du den Sparplan nur alle 2 oder gar 3 Monate ausführen lässt. Ich versuche mit einzelnen Kauf-Orders eine Kostenquote von 1 % nicht zu überschreiten, von Sparplänen erwarte ich jedoch, dass sie deutlich günstiger sind da sie ja regelmäßig ausgeführt werden. Bei meiner jetzigen Bank zahle ich 0,90 € pro Sparplanausführung. Das entspräche bei den 100 € eine Kostenquote von 0,9 % und Kosten von 10,80 € pro Jahr bei monatlicher Ausführung.&lt;/p&gt;
+
+&lt;p&gt;Aber was machst du nun, wenn du man einen größeren Geldbetrag hast, beispielsweise durch ein Erbe oder den Verkauf einer Immobilie? Ich denke, nicht der glückliche Anleger 1 aus unserem Beispiel zu sein, der den geringsten Preis am Markt erspürt und dann zugreift. Aus diesem Grund würde ich den großen Geldbetrag in Blöcke unterteilen und regelmäßig über einen Zeitraum von einem halben Jahr investieren. Sehr gut erklärt ist diese Vorgehensweise  auch in dem &lt;a href=&quot;https://www.youtube.com/watch?v=v_789nxM6VA&quot;&gt;Video von Finanzfluss&lt;/a&gt;. Was hierbei nun ein größerer Geldbetrag ist, ist nach meiner Erfahrung individuell. Bei einem Anleger, der gerade mit dem Investieren beginnt, ist die Unsicherheit bei Beträgen von 500 € sicher größer, als bei demjenigen, der bereits seit Jahren Erfahrung hat und bereits ein ansehnliches Depot angespart hat. Nichtsdestotrotz sollte man ein Auge auf die Kostenquote haben. Ein Sparplan von monatlich 25 € bei Ausführungsgebühren von 2,5 € ergibt aus meiner Sicht gar keinen Sinn. Hier müsste der Kurs ja bereits um 10 % steigen nur, damit man nicht mehr im negativen Wertebereich ist.&lt;/p&gt;
+
+&lt;h1 id=&quot;tabellen-zum-diagramm&quot;&gt;Tabellen zum Diagramm&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Monat&lt;/td&gt;
+      &lt;td&gt;Preis pro Anteil&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Monat 1&lt;/td&gt;
+      &lt;td&gt;100,00 €&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Monat 2&lt;/td&gt;
+      &lt;td&gt;50,00 €&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Monat 3&lt;/td&gt;
+      &lt;td&gt;100,00 €&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Monat 4&lt;/td&gt;
+      &lt;td&gt;150,00 €&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Monat 5&lt;/td&gt;
+      &lt;td&gt;200,00 €&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;angelegte-stück-pro-monat&quot;&gt;Angelegte Stück pro Monat&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Monat 1&lt;/td&gt;
+      &lt;td&gt;Monat 2&lt;/td&gt;
+      &lt;td&gt;Monat 3&lt;/td&gt;
+      &lt;td&gt;Monat 4&lt;/td&gt;
+      &lt;td&gt;Monat 5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Anleger 1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Anleger 2&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Anleger 3&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0,67&lt;/td&gt;
+      &lt;td&gt;0,50&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="[&quot;geldkram&quot;]" /><summary type="html">todo post referenz fixen</summary></entry><entry><title type="html">Überregulierung als Feind der Nachhaltigkeit</title><link href="http://localhost:4000/blog/geldkram/2018/10/22/gk6-ueberregulierung.html" rel="alternate" type="text/html" title="Überregulierung als Feind der Nachhaltigkeit" /><published>2018-10-22T18:00:00+02:00</published><updated>2018-10-22T18:00:00+02:00</updated><id>http://localhost:4000/blog/geldkram/2018/10/22/gk6-ueberregulierung</id><content type="html" xml:base="http://localhost:4000/blog/geldkram/2018/10/22/gk6-ueberregulierung.html">&lt;p&gt;Dieser Artikel fällt, gegenüber meinen anderen Artikeln in diesem Blog ein wenig aus der Reihe. Da mir das Thema Nachhaltigkeit jedoch ein so wichtiges ist und ich mich diesbezüglich oft über unseren Gesetzgeber aufrege, möchte ich meine Gedanken hier teilen.&lt;/p&gt;
+
+&lt;p&gt;Warum machen wir es uns eigentlich immer so schwer in Deutschland? Warum haben es disruptive Änderungen bei uns so schwer? Innovative Neuerungen entstehen überall auf der Welt, nicht selten basierend auf Technologien deutschen Entwicklungen. Dennoch scheinen wir ein Talent dafür zu haben, Gesetze und Regulierungen zu schaffen, die es diesen Neuerungen schwer machen, auch hier Einzug zu erhalten. Nicht nur, dass uns das wirtschaftlich zurückhält, nein auch, und da tut es mir besonders weh, in Belangen wie Nachhaltigkeit könnten wir viel besser sein. Es ist aber schlicht entweder verboten oder mit so hohen Hürden verbunden, dass man schon ein sehr grünes Herz haben muss, um die Mühen auf sich zu nehmen. Aber wovon rede ich überhaupt? Hier ein paar Beispiele.&lt;/p&gt;
+
+&lt;h1 id=&quot;beispiel-1-mini-solaranlagen-für-den-mieter-balkon&quot;&gt;Beispiel 1: Mini-Solaranlagen für den Mieter-Balkon&lt;/h1&gt;
+
+&lt;p&gt;Solaranlagen oder um korrekt zu sein Fotovoltaikanlagen, finden in den letzten Jahrzehnten eine immer breitere Akzeptanz. Gerade in Norddeutschland kam es mir vor, als wenn zuhauf unbewirtschaftete Flächen für Solaranlagen unterschiedlichster Größe umgenutzt wurden. In Süddeutschland fiel mir hingegen auf, dass vermehrt Solaranlagen auf Dächern von Einfamilienhäusern anzutreffen sind. Dies mag sich vielleicht mit dem Lohngefälle begründen lassen. Ich finde die Entwicklung toll und bin ein großer Fan von solchen Solaranlagen. Strom, also Energie quasi (mir ist sehr wohlbekannt, dass man diese Anlagen erst einmal herstellen und warten muss) aus dem Nichts zu gewinnen, erscheint mir als ein sehr attraktives Modell. Und gerade sonst ungenutzte Dachflächen scheinen Ideal hierfür zu sein. Der Fakt, dass die Verbreitung dieser Anlagen über letzten 10–20 Jahre so immens zugenommen hat, ist natürlich auch zum einen dem technischen Fortschritt geschuldet, zum anderen liegt es jedoch vor allem dem Preisverfall, der auch maßgeblich durch steuerliche Förderung in Deutschland hervorgerufen wurde.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Umso erfreuter war ich, als ich las, dass solche Anlagen in kleinerer Form auch für Balkone geeignet sind. Ich würde also endlich auch in den Genuss kommen, selbst Energie erzeugen zu können. Die Freude hielt allerdings nur kurz an. Je mehr ich mich hier in Deutschland mit dem Thema beschäftigte, umso weniger Spaß machte es mir. Zunächst aber die guten Nachrichten:&lt;/li&gt;
+  &lt;li&gt;Es gibt steckdosenfertige Minisolaranlagen. Steckdosenfertig meint in diesem Zusammenhang, dass die Anlagen bereits mit einer elektrischen Schaltung geliefert werden. Diese ermöglichen es, einfach einen Stecker in eine Steckdose zu stecken und damit gewonnene Energie in den Energiekreislauf einzuführen. Die Anlagen sind speziell für den Einsatz auf dem Balkon entworfen worden und liefern eine Maximalleistung von 100 bis 200 Watt bei einem Anschaffungspreis von einigen hundert Euro. Mit der gewonnenen Energie könnte man seinen Eigenverbrauch an Strom reduzieren und die Anlage würde sich ungefähr nach 4–8 Jahren amortisieren.&lt;/li&gt;
+  &lt;li&gt;Es ist nicht zwingend notwendig den Vermieter über den Plan einer solchen Installation zu informieren, zumindest wenn die &lt;a href=&quot;https://aiomag.de/strom-vom-balkon-mit-einer-mini-solaranlage-2978&quot;&gt;Entwicklung laufender Verfahren so weiterläuft&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Da die Anlagen als Komplettset verfügbar sind und mit wenigen Handgriffen in Betrieb genommen werden können, kann man in den meisten Fällen auf Fachpersonal zu Montage verzichten.&lt;/li&gt;
+  &lt;li&gt;Ich verfüge über einen Balkon Richtung Süden und Westen und wohne im Dachgeschoss.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So weit, so gut. So viele gute Nachrichten, wo ist dann das Problem? Es gibt leider auch ein paar schlechte Nachrichten:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Der VDE (Verband der Elektrotechnik Elektronik Informationstechnik e.V) hat in Deutschland die Regularien sehr stark am Worst-Case ausgerichtet. Faktisch bedeutet dies, dass zum einen eine neue Sicherung für den lokalen Stromkreislauf in der eigenen Wohnung installiert werden muss, die bereits bei geringeren Ampere-Werten absichert. Wenn ich das auch verstehe, so finde ich es schon ein wenig arg vorsichtig. Wie &lt;a href=&quot;https://www.pv-magazine.de/2018/06/14/ein-konflikt-bei-solar-stecker-modulen-besteht-nach-wie-vor/&quot;&gt;hier&lt;/a&gt; im Artikel beschrieben, müssten schon einige Negativfälle auftreten, damit dies bei einer regulären Sicherung Probleme verursachen würde. Darüber hinaus wird jedoch auch vorgeschrieben, dass anstelle einer üblichen Steckdose (SchuKo-Steckdose) eine spezielle Energieeinspeisesteckdose installiert werden muss . Technisch hat sich mir das bislang nicht erschlossen. Vielleicht mag ein technischer Laie noch eine Sicherung austauschen können, für den Einbau einer Steckdose, wird er sich aber vermutlich einen Fachmann holen.&lt;/li&gt;
+  &lt;li&gt;Es ist in Deutschland verboten Stromzähler rückwärts laufen zu lassen. Warum ist dies ein Problem? Ich will doch nur meine Energiekosten reduzieren. Na ja, wenn man den seltenen Fall das die Sonne scheint und gleichzeitig mein Kühlschrank keine Energie zieht, also die erzeugte Energie größer der verbrauchten Energie ist,  wird dies bei einem normalen, nicht gegen Rückwärtslaufen abgesicherten Stromzähler dazu führen, dass er rückwärts läuft. Ergo: ich muss meinen Energiedienstleister bitten einen anderen Stromzähler zu installieren. Dies wird selbiger sicher auch bezahlen lassen. Vermutlich will auch mein Vermieter von einem solchen Eingriff etwas wissen. Am Ende brauche ich also wahrscheinlich das Einverständnis von mehreren Parteien sowie einen professionellen Einbau.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Summa summarum muss man, um ein kleines Solarmodul von 100 Watt Spitzenleistung in einer Mietwohnung zu betreiben, diverse Einverständniserklärungen einholen sowie mehrere Installationen professionell durchführen lassen. Rein monetär lässt sich dies für eine Kleinstanlage, die zur Reduktion der eigenen Energiekosten gedacht ist, allerdings nicht rechtfertigen (ausgenommen natürlich mit dem sehr grünen Herz). Mit diesen Kosten würde sich eine solche Anlage niemals amortisieren.&lt;/p&gt;
+
+&lt;p&gt;Und wie machen das unsere Nachbarn? Hier scheint es einfacher zu sein, wenn man dieser &lt;a href=&quot;https://www.pv-magazine.de/2018/06/14/ein-konflikt-bei-solar-stecker-modulen-besteht-nach-wie-vor/&quot;&gt;Quelle&lt;/a&gt; glaubt. Dies liegt vor allem an üblicherweise, leicht technisch abweichenden Elektroinstallationen in genannten Ländern, die durch dickere Leitungen oder niedriger eingestellten Überspannungsschutz mehr Puffer oder aber eine frühere Abschaltung bei Problemen mit solchen Kleinstanlagen bieten.&lt;/p&gt;
+
+&lt;h2 id=&quot;weitere-links-zum-thema&quot;&gt;Weitere Links zum Thema:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.heise.de/tp/features/Guerilla-Sonnenenergie-Anlagen-kuenftig-in-Deutschland-erlaubt-3875632.html&quot;&gt;Guerilla-Sonnenenergie-Anlagen künftig in Deutschland erlaubt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aiomag.de/strom-vom-balkon-mit-einer-mini-solaranlage-2978&quot;&gt;Strom vom Balkon – mit einer Mini-Solaranlage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.focus.de/immobilien/energiesparen/solaranlage-auf-dem-balkon-das-muessen-sie-wissen_id_8338868.html&quot;&gt;Neue Technik für den Balkon: Jetzt können auch Mieter eine Solaranlage betreiben&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vde.com/de/fnn/themen/tar/tar-niederspannung/erzeugungsanlagen-steckdose&quot;&gt;FAQ zu steckerfertigen PV-Anlagen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pv-magazine.de/2018/06/14/ein-konflikt-bei-solar-stecker-modulen-besteht-nach-wie-vor/&quot;&gt;Ein Konflikt bei Solar-Stecker-Modulen besteht nach wie vor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;beispiel-2-elektromobilität-für-die-letzte-meile&quot;&gt;Beispiel 2: Elektromobilität für die letzte Meile&lt;/h1&gt;
+
+&lt;p&gt;Öffentlicher Nahverkehr, gut gestaltet, ist eine tolle Sache. Als ich vor 6 Jahren nach Berlin zog, war ich froh mein Auto verkaufen zu können, da - auch wenn die Berliner viel über ihren öffentlichen Nahverkehr jammern - dies auf sehr hohem Niveau geschieht. Hoher Taktung sowie enger Vernetzung zum Dank, kommt man in Berlin mehr oder weniger bequem von A nach B. Die Vorteile liegen auf der Hand: Vermeidung von Individualverkehr, welcher die Straßen weiter verstopft, Elektromobilität in Form von Zügen, Preisersparnis bei regelmäßiger Nutzung dank Flatrate via Jahresabo. Trotz dieser Vorteile habe ich jedoch etwa 10 Minuten Fußweg zur nächsten U-Bahn-Station: die sogenannte letzte Meile. Um auch hier noch ein paar Minuten zu sparen, kann man beispielsweise auf Tretroller zurückgreifen. Spannender hingegen finde ich selbige in elektrisierter Form. Ausgestattet mit einem Akku für gut 10 – 20 km Reichweite sowie einer Geschwindigkeit von bis zu 25 km/h kommt man schnell zu naheliegenden Haltestellen oder kann seine Mobilität im eigenen Kiez deutlich erhöhen. Da solche Roller auch mehr oder weniger handlich und klein sind, kann man ihn auch mit ein wenig Übung in die U-Bahn mitnehmen. Dank der AGB der Berliner Verkehrsbetriebe muss man auch erst eine zusätzliche Fahrradkarte kaufen, wenn die Radgröße 13 Zoll (ca. 33 cm) übersteigt, was bei den meisten Modellen jedoch nicht der Fall ist. Alles in allem, also eine runde Sache. Warum führe ich diese Form der Mobilität hier also auf? Nun, ganz einfach: einen solchen Elektroroller zu kaufen und einfach loszufahren ist in etwa so, als würde man sich Moped kaufen und einfach ohne Nummernschild und Versicherung am Straßenverkehr teilnehmen. Wird man hierbei erwischt können empfindliche Strafen folgen. Nach diesem &lt;a href=&quot;https://aiomag.de/elektroroller-strassenzulassung-fuer-e-scooter-zieht-sich-hin-11175&quot;&gt;Artikel&lt;/a&gt; zu urteilen  muss man mit Folgendem rechnen: “[…] mit einem Kraftfahrzeug ohne Zulassung und Versicherungsschutz unterwegs und muss mit einer saftigen Strafe rechnen – das kann von einer zweistelligen Geldbuße bis zum Gefängnis reichen.”). Warum ist das so und fällt nicht unter dieselben Regeln wie Elektrofahrräder, die ja auch 25 km/h fahren?&lt;/p&gt;
+
+&lt;p&gt;Ganz einfach, für Elektrofahrräder gibt es eine Sonderregelung, die greift, wenn diese maximal bis 25 km/h elektrisch unterstützen. Die Betonung liegt hierbei auf unterstützen, die Hauptantriebskraft muss also weiterhin aus der eigenen Muskelkraft stammen. Einen Gashebel wird man also bei den meisten regulär zu kaufenden Elektrorädern vergeblich suchen.
+Da die genannten Elektroroller jedoch genau einen solchen Gashebel haben und komplett aus elektrischer Kraft auf die genannten 25 km/h beschleunigen, fallen sie nicht unter die begünstigende Regel von Elektrofahrrädern. Um regelkonform mit solchen Vehikeln zu fahren, müssten man zum einen beim Kraftfahrt-Bundesamt eine Einzelzulassung beantragen (da die meisten dieser Gefährte in der verkauften Form nicht zugelassen sind) und sich hinterher um einen Versicherungsschutz kümmern. Was dies hinsichtlich Preis und Aufwand bedeutet, kann ich leider nicht sagen, ich vermute aber, dass man eine ganze Menge dieser 10-Minuten-Gänge sparen müsste, damit sich das rentiert.&lt;/p&gt;
+
+&lt;p&gt;Grundsätzlich wurde diese, sagen wir mal Gesetzeslücke, auch vom Gesetzgeber erkannt. Leider warten viele Leute nun seit Jahren, dass sich hier auch etwas tut. Zu Ende 2018 war eine rechtliche Novellierung geplant, leider scheint diese aber zum einen relativ unzureichend zu sein und zum anderen deswegen angefochten zu werden, was den gesamten Prozess verzögert. Was die Neuregelung recht unsinnig erscheinen lässt, kann man gut in diesem &lt;a href=&quot;unter https://www.youtube.com/watch?v=g2FIno823I0&quot;&gt;12 minütigen YouTube-Video&lt;/a&gt; sehen.&lt;/p&gt;
+
+&lt;p&gt;So bleibt aktuell nichts anderes, als entweder die längeren Wege auf sich zu nehmen oder sich einen, nach Möglichkeit Diesel verbrennenden, Wagen zu kaufen, auf den Individualverkehr zu setzen und viel Zeit im Stau zu verbringen, genauso wie es viele tun.&lt;/p&gt;
+
+&lt;p&gt;In vielen anderen Ländern sind dahingegeben Regularien für Elektroroller übrigens wesentlich liberaler. In Nordamerika sowie im asiatischen Raum, aber auch bei unseren Nachbarländern erfreuen sich solche Fortbewegungsmittel mittlerweile steigender Beliebtheit. Natürlich bleibt auch das nicht ohne negative Folgen, Unfälle werden passieren und wir werden lernen müssen mit diesen neuen Geräten umzugehen. Unter dem Strich halte ich es dennoch für ein zukunftsweisendes Fortbewegungskonzept und würde mich über eine schnelle Anpassung der Gesetzeslage in unserem Land freuen.&lt;/p&gt;
+
+&lt;h2 id=&quot;weitere-links-zum-thema-1&quot;&gt;Weitere Links zum Thema:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aiomag.de/elektroroller-strassenzulassung-fuer-e-scooter-zieht-sich-hin-11175&quot;&gt;Elektroroller: Straßenzulassung für E-Scooter zieht sich hin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.deutschlandfunk.de/e-scooter-und-e-skateboards-gefaehrlicher-als-gedacht.697.de.html?dram:article_id=373848&quot;&gt;E-Scooter und E-Skateboards gefährlicher als gedacht&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="[&quot;geldkram&quot;]" /><summary type="html">Dieser Artikel fällt, gegenüber meinen anderen Artikeln in diesem Blog ein wenig aus der Reihe. Da mir das Thema Nachhaltigkeit jedoch ein so wichtiges ist und ich mich diesbezüglich oft über unseren Gesetzgeber aufrege, möchte ich meine Gedanken hier teilen.</summary></entry><entry><title type="html">Risiko, eine Frage von Zeit und Zeitpunkt</title><link href="http://localhost:4000/blog/geldkram/2018/09/30/gk5-risiko.html" rel="alternate" type="text/html" title="Risiko, eine Frage von Zeit und Zeitpunkt" /><published>2018-09-30T18:00:00+02:00</published><updated>2018-09-30T18:00:00+02:00</updated><id>http://localhost:4000/blog/geldkram/2018/09/30/gk5-risiko</id><content type="html" xml:base="http://localhost:4000/blog/geldkram/2018/09/30/gk5-risiko.html">&lt;p&gt;Das Thema Risiko ist eines, dass gerade in Deutschland sehr oft mit dem Thema Aktien und Börse im Allgemeinen verbunden wird. Und dies mit Recht!
+Von den Medien, die über künftige und vergangene Börsencrashs berichten, über die Darstellung von Banken, die mit hochriskanten Finanzgeschäften das Geld „des kleinen Mannes“ riskieren, bis hin zu Warnungen beim Kauf vieler Finanzprodukte, das diese erheblichen Risiken bergen, gibt es eine Menge Indizien für Risiko. Vieles davon ist richtig. Aber warum gibt es, außer in Deutschland, so viele Menschen, die den Schritt an die Börse wagen und damit Geld verdienen?
+Es ist, wie es immer ist: die Welt ist weder schwarz noch weiß. Die schwarzen Tage scheinen jedoch manchmal besonders Präsent im Gedächtnis zu verbleiben. Viele werden den einen oder anderen Börsencrash nennen können. Die präsentesten Beispiele mögen hier das Platzen der &lt;a href=&quot;https://de.wikipedia.org/wiki/Dotcom-Blase&quot;&gt;Dotcom-Blase&lt;/a&gt; mit dem einhergehenden massiven Wertverlust von beispielsweise der Telekom-Aktie, sowie die sogenannte &lt;a href=&quot;https://de.wikipedia.org/wiki/Weltfinanzkrise&quot;&gt;Weltfinanzkrise 2007&lt;/a&gt; mit der Lehmann-Pleite und folgenden Griechenland-Euro-Krise sein. Das Bemerkenswerte daran, neben den tragischen Schicksalen bestimmter Einzelwerte, ist jedoch, dass wir noch immer hier sind. So sehr der DAX beispielsweise auch 2007 bis 2009 abgestürzt sein mag, weder hat dies an der Existenz selbigen gerüttelt, noch daran etwas geändert, dass der DAX wenige Jahre späte bereits wieder in höheren Bewertungen anzutreffen war als vor der Krise. Das ist auch auf folgender Grafik vom Deutschen Aktieninstitut e.V. gut zu erkennen (nimm dir für die Grafik ein wenig Zeit, ihr Inhalt erschließt sich nicht auf den ersten Blick):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/geldkram/gk5-renditedreieck-dax.PNG&quot; alt=&quot;Renditedreieck DAX&quot; /&gt;
+(Quelle: &lt;a href=&quot;https://www.dai.de/files/dai_usercontent/dokumente/renditedreieck/2017-12-31%20DAX-Rendite-Dreieck%2050%20Jahre%20Sparplan%20Web.pdf&quot;&gt;Deutsches Aktieninstitut e.V.&lt;/a&gt; das jeweils aktuellste Renditedreieck kann hier bezogen werden.)&lt;/p&gt;
+
+&lt;p&gt;Wie du siehst, kann man drei Sachverhalte sehr gut aus der Grafik entnehmen:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Es gibt immer wieder Jahre, in denen der DAX deutliche, ja fast schon beängstigende Wertverluste aufweist. (1986: -46 %, 2001: -49 %, 2010: -21 %)&lt;/li&gt;
+  &lt;li&gt;Auf die Jahre mit den großen Wertverlusten folgen meist Jahre, mit einer überdurchschnittlichen Rendite (1987: 36 %, 2002: 58 %, 2011: 24 %). Verlustjahre werden also mit Überrendite meist aufgewogen oder zumindest abgemildert.&lt;/li&gt;
+  &lt;li&gt;Wenn man auf einen langen Haltezeitraum schaut, mittelt sich die Rendite auf etwa 5 % bis 10 % jährlich.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Genau der dritte Punkt ist es, in dem das Risiko mit der Zeit (Haltedauer) korreliert. Was ich damit ausdrücken will, ist, du kannst Börsencrashs aussitzen. Dies setzt natürlich ein gut diversifiziertes Portfolio voraus. Einzelaktien können vom Markt verschwinden / Konkurs anmelden. Für einen gesamten Index, wie den DAX oder besser noch den MSCI World, ist dies aber nahezu ausgeschlossen.
+Was dir natürlich immer geschehen kann, ist das du zum vermeintlich falschen Zeitpunkt in den Markt einsteigst und Wertpapiere kaufst. Dies wäre zum Beispiel der Fall gewesen, wenn du direkt vor dem Crash 2007 Anteile vom DAX gekauft hättest. Zwar müsstest du nun einige Jahre darauf warten, bis du wieder ohne Wertverlust aus der Geschichte herauskommst, aber das Warten wäre nicht unbelohnt geblieben.
+Meine Empfehlung ist solche Abstürze als Gelegenheit zu erkennen, um weitere Anteile zu erwerben, also das Sparen zu intensivieren. Statt zu denken: „oh nein meine Wertpapiere haben 50 % an Wert verloren“, solltest du versuchen es wie eine Rabattaktion zu betrachten: „oh toll, 50 % Rabatt auf die Wertpapiere, da bekomme ich ja doppelt so viel für mein Geld“. Optimalerweise solltest du hierzu bei größeren Beträgen nie alles auf einmal investieren und den Betrag auf mehrere Einzelinvestments aufteilen. Das nennt sich „Cost-Average-Effect“ und wie du ihn automatisiert dir zunutze machen  kannst, erkläre ich dir im Artikel &lt;a href=&quot;broken link&quot;&gt;Nutzen des Cost-Average-Effects bei Sparplänen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;todo-repair-broken-link&quot;&gt;todo repair broken link&lt;/h1&gt;</content><author><name></name></author><category term="[&quot;geldkram&quot;]" /><summary type="html">Das Thema Risiko ist eines, dass gerade in Deutschland sehr oft mit dem Thema Aktien und Börse im Allgemeinen verbunden wird. Und dies mit Recht! Von den Medien, die über künftige und vergangene Börsencrashs berichten, über die Darstellung von Banken, die mit hochriskanten Finanzgeschäften das Geld „des kleinen Mannes“ riskieren, bis hin zu Warnungen beim Kauf vieler Finanzprodukte, das diese erheblichen Risiken bergen, gibt es eine Menge Indizien für Risiko. Vieles davon ist richtig. Aber warum gibt es, außer in Deutschland, so viele Menschen, die den Schritt an die Börse wagen und damit Geld verdienen? Es ist, wie es immer ist: die Welt ist weder schwarz noch weiß. Die schwarzen Tage scheinen jedoch manchmal besonders Präsent im Gedächtnis zu verbleiben. Viele werden den einen oder anderen Börsencrash nennen können. Die präsentesten Beispiele mögen hier das Platzen der Dotcom-Blase mit dem einhergehenden massiven Wertverlust von beispielsweise der Telekom-Aktie, sowie die sogenannte Weltfinanzkrise 2007 mit der Lehmann-Pleite und folgenden Griechenland-Euro-Krise sein. Das Bemerkenswerte daran, neben den tragischen Schicksalen bestimmter Einzelwerte, ist jedoch, dass wir noch immer hier sind. So sehr der DAX beispielsweise auch 2007 bis 2009 abgestürzt sein mag, weder hat dies an der Existenz selbigen gerüttelt, noch daran etwas geändert, dass der DAX wenige Jahre späte bereits wieder in höheren Bewertungen anzutreffen war als vor der Krise. Das ist auch auf folgender Grafik vom Deutschen Aktieninstitut e.V. gut zu erkennen (nimm dir für die Grafik ein wenig Zeit, ihr Inhalt erschließt sich nicht auf den ersten Blick):</summary></entry></feed>
