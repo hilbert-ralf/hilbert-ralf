@@ -13,4 +13,6 @@ category: ["tech"]
 * jekyll build
 * .gitignore editieren
 * alles einchecken
-* bundle exec jekyll serve
+* jekyll serve
+
+* jekyll clean && jekyll build && jekyll serve
