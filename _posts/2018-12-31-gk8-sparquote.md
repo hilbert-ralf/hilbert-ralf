@@ -3,6 +3,7 @@ layout: post
 title:  "Sparquote"
 date:   2018-12-31 18:00:00 +0200
 category: ["geldkram"]
+tags: [Ausgaben, Frugalismus, sparen, Sparquote]
 ---
 
 In den letzten Artikeln habe ich gezeigt, warum sparen wichtig ist, und, wie du das auch mit wenig Aufwand und Vorkenntnissen am Aktienmarkt mit einer vernünftigen Rendite machen kannst. Aber wie viel von deinem Einkommen solltest du nun sparen? 

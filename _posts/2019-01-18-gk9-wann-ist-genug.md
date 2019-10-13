@@ -3,6 +3,7 @@ layout: post
 title:  "Wann ist eigentlich genug mit dem Sparen?"
 date:   2019-01-18 18:00:00 +0200
 category: ["geldkram"]
+tags: [Freiheit, Inflation, Reichtum, Rente, Rentenlücke, Sparziel, Teilzeit]
 ---
 
 Gibt es den Moment, in dem ich fertig bin und einfach mein ganzes Einkommen “verprassen” kann? Sicher, es gibt viele Menschen, welche dies schon jetzt tun und dabei nicht bei der Höhe ihres Einkommens aufhören, sondern auch darüber hinaus konsumieren - Stichwort Verschuldung. Wenn du hingegen bis hierher meinen Blog gelesen hast, gehörst du entweder nicht dazu oder willst es nicht mehr. Wenn dem so ist, gratuliere ich dir! Aber musst du deswegen bis in die Ewigkeit den Gürtel enger schnallen, dich zurückhalten und sparen? Wie bei allem im Leben: das kommt darauf an! Lass mich damit beginnen, wie sich das bei mir entwickelt hat:

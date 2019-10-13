@@ -3,6 +3,7 @@ layout: post
 title:  "Kaufen oder Mieten? - Buchempfehlung"
 date:   2019-03-19 18:00:00 +0200
 category: ["geldkram"]
+tags: [Buchempfehlung, "Gerd Kommer", Immobilien, Mieten, Mythen]
 ---
 
 Kaufen oder Mieten? Das ist eine Frage, die sich meiner Meinung nach hierzulande viel zu wenige stellen. Oftmals wird der Immobilienerwerb als alternativlos und als die optimale Art der Altersvorsorge angesehen. Von “Betongold” und “Miete ist zum Fenster hinausgeworfenes Geld” ist die Rede. 

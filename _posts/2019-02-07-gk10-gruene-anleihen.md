@@ -3,6 +3,7 @@ layout: post
 title:  "Investieren mit (grünen) Anleihen"
 date:   2019-02-07 18:00:00 +0200
 category: ["geldkram"]
+tags: [Anleihen Niedrigzinsphase, Einfluss, ETF, Nachhaltigkeit]
 ---
 
 Für das Jahr 2019 habe ich mir vorgenommen, mich zum Thema Anleihen schlau zu machen und einen bestimmten Betrag zu investieren, wenn sich das Thema als interessant herausstellen sollte.

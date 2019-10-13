@@ -3,6 +3,7 @@ layout: post
 title:  "Grundlagen der passiven Geldanlage"
 date:   2018-08-29 18:00:00 +0200
 category: ["geldkram"]
+tags: [Aktienindex, aktive Fonds, Diversifikation, ETF, Geldanlage, Index, MSCI World, passive Fonds]
 ---
 
 Nun geht’s also ans Eingemachte. Naja, noch nicht so richtig. Aber zumindest ein paar Grundlagen möchte ich in diesem Artikel vermitteln, damit du ein Gefühl davon bekommst, wohin die Reise geht. Nichts anderes als diese Grundlagen habe ich mir angeeignet, als ich vor einigen Jahren anfing, an der Börse Wertpapiere zu handeln. Aber damit gehe ich schon zu weit, lass uns einen Schritt zurückgehen. Was gib es überhaupt für Geldanlageformen?

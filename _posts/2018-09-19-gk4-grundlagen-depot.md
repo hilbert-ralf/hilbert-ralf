@@ -3,6 +3,7 @@ layout: post
 title:  "Grundlagen der Depot-Eröffnung und Führung"
 date:   2018-09-19 18:00:00 +0200
 category: ["geldkram"]
+tags: [Broker, Brokervergleich, Depot, Depotführung, Einlagensicherung, Kaufen, Konto, sparen, Verkaufen]
 ---
 
 In meinem letzten Artikel, [Grundlagen der passiven Geldanlage]({{ site.baseurl }}{% post_url 2018-08-29-gk3-grundlagen-der-passiven-geldanlage %}) habe ich erläutert, welche Finanzinstrumente grundlegend verfügbar, und, welche davon für Einsteiger geeignet sind. Offen ließ ich, wie du nun tatsächlich auch investieren kannst. Hierfür brauchst du ein Depot. Was das ist und wie du es bekommst, zeige ich dir in diesem Artikel.

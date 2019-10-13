@@ -3,6 +3,7 @@ layout: post
 title:  "Souverän Investieren mit Indexfonds & ETFs - Buchempfehlung"
 date:   2019-05-24 18:00:00 +0200
 category: ["geldkram"]
+tags: ["aktive Fonds", Buchempfehlung, Diversifikation, ETF, "Gerd Kommer", Investmentfehler, Weltportfolio]
 ---
 
 Endlich habe ich es geschafft Gerd Kommers erfolgreiches Buch “Souverän Investieren mit Indexfonds & ETFs” zu lesen. Das hatte ich schon lange vor, da ich immer wieder gehört habe, wie gut es sei, ja gar “das Buch” sei, wenn es um passive Geldanlage geht. Ein kurzes Fazit vorne weg: das kann ich großteils unterstreichen.

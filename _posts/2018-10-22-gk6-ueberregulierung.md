@@ -3,6 +3,7 @@ layout: post
 title:  "Überregulierung als Feind der Nachhaltigkeit"
 date:   2018-10-22 18:00:00 +0200
 category: ["geldkram"]
+tags: [Elektromobilität, Mieter, Mini-Solaranlagen, Nachhaltigkeit, Überregulierung]
 ---
 
 Dieser Artikel fällt, gegenüber meinen anderen Artikeln in diesem Blog ein wenig aus der Reihe. Da mir das Thema Nachhaltigkeit jedoch ein so wichtiges ist und ich mich diesbezüglich oft über unseren Gesetzgeber aufrege, möchte ich meine Gedanken hier teilen.

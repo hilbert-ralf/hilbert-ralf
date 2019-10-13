@@ -3,6 +3,7 @@ layout: post
 title:  "Ich und meine Fondsgebundene Rentenversicherung"
 date:   2019-03-29 18:00:00 +0200
 category: ["geldkram"]
+tags: ["aktive Fonds", fondsgebundene Rentenversicherung, Rente, Rentenversicherung]
 ---
 
 

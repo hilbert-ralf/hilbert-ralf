@@ -3,6 +3,7 @@ layout: post
 title:  "Nachhaltige Banken"
 date:   2019-10-03 01:00:00 +0200
 category: ["geldkram"]
+tags: [Banken, Nachhaltigkeit, "impact investing", Tagesgeld]
 ---
 
 Als ich mich letztens bei einem Freund über meine Unzufriedenheit mit einer meiner Banken ausgelassen habe, erzählte er mir, dass meine Bank mit fiesen Mitteln Geld verdiene, und fragte, ob ich denn schon mal über nachhaltige Banken nachgedacht hätte. Ich konnte dies nur verneinen und er sendete mir prompt einige Artikel, um dies nachzuholen. Die darauf folgenden Gedankengänge möchte ich in diesem Artikel teilen.
