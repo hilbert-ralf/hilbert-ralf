@@ -1,0 +1,71 @@
+I"�<p>Dies ist ein kleines Script zum Anzeigen möglicher Post-Referenzen zum Einfügen in Markdown-Dateien. Mir spart es ein
+ wenig händische Arbeit.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+</pre></td><td class="code"><pre><span class="c">#</span>
+<span class="nv">c</span><span class="o">=</span>1
+
+<span class="nb">echo</span> <span class="s2">""</span>
+<span class="nb">echo</span> <span class="s2">"just copy one of the following link jerkyll / markdown links and copy to your post:"</span>
+<span class="nb">echo</span> <span class="s2">""</span>
+
+<span class="c"># set this variable with relative path to your posts</span>
+<span class="nv">RELATIVE_PATH</span><span class="o">=</span><span class="s2">"../"</span>
+
+<span class="nv">FILES</span><span class="o">=</span><span class="s2">"</span><span class="si">$(</span><span class="nb">ls</span> <span class="nv">$RELATIVE_PATH</span> <span class="nt">-p</span> | <span class="nb">grep</span> <span class="nt">-v</span> /<span class="si">)</span><span class="s2">"</span>
+
+<span class="k">for </span>n <span class="k">in</span> <span class="nv">$FILES</span>
+<span class="k">do</span>
+    <span class="c"># remove file ending</span>
+    <span class="nv">REF</span><span class="o">=</span><span class="s2">"</span><span class="si">$(</span><span class="nb">echo</span> <span class="nv">$n</span> | <span class="nb">cut</span> <span class="nt">-d</span><span class="s1">'.'</span> <span class="nt">-f1</span><span class="si">)</span><span class="s2">"</span>
+
+    <span class="c"># stripping down to the raw title</span>
+    <span class="nv">TITLE</span><span class="o">=</span><span class="s2">"</span><span class="si">$(</span><span class="nb">cat</span> <span class="nv">$RELATIVE_PATH$n</span> | <span class="nb">grep</span> <span class="s1">'title:'</span> | <span class="nb">cut</span> <span class="nt">-d</span><span class="s1">'"'</span> <span class="nt">-f2</span><span class="si">)</span><span class="s2">"</span>
+
+    <span class="nb">echo</span> <span class="s2">""</span>
+    <span class="nb">echo</span> <span class="s2">"</span><span class="nv">$c</span><span class="s2">: [</span><span class="se">\"</span><span class="nv">$TITLE</span><span class="se">\"</span><span class="s2">]({% post_url </span><span class="nv">$REF</span><span class="s2"> %})"</span>
+
+    <span class="nv">c</span><span class="o">=</span><span class="k">$((</span>c+1<span class="k">))</span>
+<span class="k">done</span>
+<span class="c">#</span>
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<p>Die Ausgabe sieht dann wie folgt aus.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">λ sh post_links.sh
+
+just copy one of the following <span class="nb">link </span>jerkyll / markdown links and copy to your post:
+
+
+1: <span class="o">[</span><span class="s2">"Was tun mit dem Geld? Sparen!"</span><span class="o">]({</span>% post_url 2018-08-11-gk1-sparen %<span class="o">})</span>
+
+2: <span class="o">[</span><span class="s2">"Warum Sparen? Aka wie funktioniert unsere Rente?"</span><span class="o">]({</span>% post_url 2018-08-18-gk2-rente %<span class="o">})</span>
+
+3: <span class="o">[</span><span class="s2">"Grundlagen der passiven Geldanlage"</span><span class="o">]({</span>% post_url 2018-08-29-gk3-grundlagen-der-passiven-geldanlage %<span class="o">})</span></code></pre></figure>
+
+:ET
