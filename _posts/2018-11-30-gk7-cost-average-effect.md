@@ -6,9 +6,9 @@ category: ["geldkram"]
 tags: [Cost-Average-Effect, Durchschnittskosteneffekt, Einmalanlage, Gebühren, Marktschwankung, Risiko, Sparplan]
 ---
 
-Wie im Artikel [“Risiko, eine Frage von Zeit und Zeitpunkt”]({{ site.baseurl }}{% post_url 2018-09-30-gk5-risiko %}) erörtert, ist der [Cost-Average-Effect](https://de.wikipedia.org/wiki/Durchschnittskosteneffekt) ein Mechanismus, der zur Regulierung des Anlagerisikos dient. Um diesen zu nutzen, verteilt man eine größere Geldanlage auf mehrere kleinere Beträge und investiert diese in einem - nach Möglichkeit - festen Zeitabstand. Hierdurch verringerst du das Risiko, dass du bei Marktschwankungen zu einem bestimmten Kurs Aktien kaufst, deren Wert dann jedoch fällt, jedoch auch die Chance, dass genau das Gegenteil passiert und der Kurs steigt. Um diesen Effekt zu veranschaulichen, hier eine kleine Grafik:
+Wie im Artikel [“Risiko, eine Frage von Zeit und Zeitpunkt”]({% post_url 2018-09-30-gk5-risiko %}) erörtert, ist der [Cost-Average-Effect](https://de.wikipedia.org/wiki/Durchschnittskosteneffekt) ein Mechanismus, der zur Regulierung des Anlagerisikos dient. Um diesen zu nutzen, verteilt man eine größere Geldanlage auf mehrere kleinere Beträge und investiert diese in einem - nach Möglichkeit - festen Zeitabstand. Hierdurch verringerst du das Risiko, dass du bei Marktschwankungen zu einem bestimmten Kurs Aktien kaufst, deren Wert dann jedoch fällt, jedoch auch die Chance, dass genau das Gegenteil passiert und der Kurs steigt. Um diesen Effekt zu veranschaulichen, hier eine kleine Grafik:
 
-![Cost-Average-Effect Beispielrechnung]({{ site.baseurl }}{% link assets/geldkram/gk7-cost-average-effect.png %})
+![Cost-Average-Effect Beispielrechnung]({% link assets/geldkram/gk7-cost-average-effect.png %})
 
 Auf den ersten Blick ein wenig verwirrend, erkennst du hier Verschiedenes. Zum einen den in blau angezeigten Preis eines fiktiven Wertpapiers pro Stück (linke vertikale Skala). Auf der rechten Seite (vertikale Skala) sieht man, die Anzahl der gekauften Anteile, die im mittigen Bereich über Balken dargestellt sind. Die fiktive Situation umfasst ein Wertpapier, welches zunächst vom Wert fällt und anschließend wieder steigt. Jeder der Anleger investiert 500 € nach verschiedenen Strategien:
 * Anleger 1 investiert sein gesamtes Kapital in Monat 2.

@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Jekyll-Post-Links generieren | Geldkram &amp; mehr</title>
-<meta name="generator" content="Jekyll v3.8.6" />
+<meta name="generator" content="Jekyll v4.0.0" />
 <meta property="og:title" content="Jekyll-Post-Links generieren" />
 <meta name="author" content="Ralf Hilbert" />
 <meta property="og:locale" content="de_DE" />
@@ -16,11 +16,11 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2019-10-03T01:00:00+02:00" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","url":"https://hilbert-ralf.github.io/blog/tech/2019/10/03/post-links.html","headline":"Jekyll-Post-Links generieren","dateModified":"2019-10-03T01:00:00+02:00","datePublished":"2019-10-03T01:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://hilbert-ralf.github.io/blog/tech/2019/10/03/post-links.html"},"author":{"@type":"Person","name":"Ralf Hilbert"},"description":"Dies ist ein kleines Script zum Anzeigen möglicher Post-Referenzen zum Einfügen in Markdown-Dateien. Mir spart es ein wenig händische Arbeit.","@context":"https://schema.org"}</script>
+{"@type":"BlogPosting","dateModified":"2019-10-03T01:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://hilbert-ralf.github.io/blog/tech/2019/10/03/post-links.html"},"url":"https://hilbert-ralf.github.io/blog/tech/2019/10/03/post-links.html","author":{"@type":"Person","name":"Ralf Hilbert"},"headline":"Jekyll-Post-Links generieren","description":"Dies ist ein kleines Script zum Anzeigen möglicher Post-Referenzen zum Einfügen in Markdown-Dateien. Mir spart es ein wenig händische Arbeit.","datePublished":"2019-10-03T01:00:00+02:00","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blog/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://hilbert-ralf.github.io/blog/feed.xml" title="Geldkram & mehr" /><!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Jekyll-Post-Links generieren | Geldkram &amp; mehr</title>
-<meta name="generator" content="Jekyll v3.8.6" />
+<meta name="generator" content="Jekyll v4.0.0" />
 <meta property="og:title" content="Jekyll-Post-Links generieren" />
 <meta name="author" content="Ralf Hilbert" />
 <meta property="og:locale" content="de_DE" />
@@ -32,7 +32,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2019-10-03T01:00:00+02:00" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","url":"https://hilbert-ralf.github.io/blog/tech/2019/10/03/post-links.html","headline":"Jekyll-Post-Links generieren","dateModified":"2019-10-03T01:00:00+02:00","datePublished":"2019-10-03T01:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://hilbert-ralf.github.io/blog/tech/2019/10/03/post-links.html"},"author":{"@type":"Person","name":"Ralf Hilbert"},"description":"Dies ist ein kleines Script zum Anzeigen möglicher Post-Referenzen zum Einfügen in Markdown-Dateien. Mir spart es ein wenig händische Arbeit.","@context":"https://schema.org"}</script>
+{"@type":"BlogPosting","dateModified":"2019-10-03T01:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://hilbert-ralf.github.io/blog/tech/2019/10/03/post-links.html"},"url":"https://hilbert-ralf.github.io/blog/tech/2019/10/03/post-links.html","author":{"@type":"Person","name":"Ralf Hilbert"},"headline":"Jekyll-Post-Links generieren","description":"Dies ist ein kleines Script zum Anzeigen möglicher Post-Referenzen zum Einfügen in Markdown-Dateien. Mir spart es ein wenig händische Arbeit.","datePublished":"2019-10-03T01:00:00+02:00","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head><body><header class="site-header" role="banner">
@@ -112,7 +112,7 @@
     <span class="nv">TITLE</span><span class="o">=</span><span class="s2">"</span><span class="si">$(</span><span class="nb">cat</span> <span class="nv">$RELATIVE_PATH$n</span> | <span class="nb">grep</span> <span class="s1">'title:'</span> | <span class="nb">cut</span> <span class="nt">-d</span><span class="s1">'"'</span> <span class="nt">-f2</span><span class="si">)</span><span class="s2">"</span>
 
     <span class="nb">echo</span> <span class="s2">""</span>
-    <span class="nb">echo</span> <span class="s2">"</span><span class="nv">$c</span><span class="s2">: [</span><span class="se">\"</span><span class="nv">$TITLE</span><span class="se">\"</span><span class="s2">]({{ site.baseurl }}{% post_url </span><span class="nv">$REF</span><span class="s2"> %})"</span>
+    <span class="nb">echo</span> <span class="s2">"</span><span class="nv">$c</span><span class="s2">: [</span><span class="se">\"</span><span class="nv">$TITLE</span><span class="se">\"</span><span class="s2">]({% post_url </span><span class="nv">$REF</span><span class="s2"> %})"</span>
 
     <span class="nv">c</span><span class="o">=</span><span class="k">$((</span>c+1<span class="k">))</span>
 <span class="k">done</span>
@@ -126,11 +126,11 @@
 just copy one of the following <span class="nb">link </span>jerkyll / markdown links and copy to your post:
 
 
-1: <span class="o">[</span><span class="s2">"Was tun mit dem Geld? Sparen!"</span><span class="o">]({{</span> site.baseurl <span class="o">}}{</span>% post_url 2018-08-11-gk1-sparen %<span class="o">})</span>
+1: <span class="o">[</span><span class="s2">"Was tun mit dem Geld? Sparen!"</span><span class="o">]({</span>% post_url 2018-08-11-gk1-sparen %<span class="o">})</span>
 
-2: <span class="o">[</span><span class="s2">"Warum Sparen? Aka wie funktioniert unsere Rente?"</span><span class="o">]({{</span> site.baseurl <span class="o">}}{</span>% post_url 2018-08-18-gk2-rente %<span class="o">})</span>
+2: <span class="o">[</span><span class="s2">"Warum Sparen? Aka wie funktioniert unsere Rente?"</span><span class="o">]({</span>% post_url 2018-08-18-gk2-rente %<span class="o">})</span>
 
-3: <span class="o">[</span><span class="s2">"Grundlagen der passiven Geldanlage"</span><span class="o">]({{</span> site.baseurl <span class="o">}}{</span>% post_url 2018-08-29-gk3-grundlagen-der-passiven-geldanlage %<span class="o">})</span></code></pre></figure>
+3: <span class="o">[</span><span class="s2">"Grundlagen der passiven Geldanlage"</span><span class="o">]({</span>% post_url 2018-08-29-gk3-grundlagen-der-passiven-geldanlage %<span class="o">})</span></code></pre></figure>
 
 
   </div><a class="u-url" href="/blog/tech/2019/10/03/post-links.html" hidden></a>

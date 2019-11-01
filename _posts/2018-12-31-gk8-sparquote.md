@@ -45,7 +45,7 @@ Die Werte spiegeln kein “so muss es sein” dar, jedoch von oben nach unten ei
 Menschen die geradeso mit ihrem Einkommen über die Runden kommen, müssen auf das Problem mit anderen Augen schauen
 . Da ich (zum Glück) nicht in dieser Lage bin, kann ich hier leider keine Expertentipps geben. Aber gerade diese
  Menschen sind im Alter von Armut am stärksten bedroht (wie ich bereits im Artikel ["Warum Sparen? Aka wie
-  funktioniert unsere Rente?"]({{ site.baseurl }}{% post_url 2018-08-18-gk2-rente %}) erläutert habe). Sie sollten also ganz
+  funktioniert unsere Rente?"]({% post_url 2018-08-18-gk2-rente %}) erläutert habe). Sie sollten also ganz
   besonders
   darüber nachdenken
  , ob sie nicht entweder an bestimmten Stellen im Leben Konsum reduzieren können (unnötige Versicherungen, unnötiges

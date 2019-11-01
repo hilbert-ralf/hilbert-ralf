@@ -12,7 +12,7 @@ Kaufen oder Mieten? Das ist eine Frage, die sich meiner Meinung nach hierzulande
 , etabliert, plausibel und falsch.” – John F. Kennedy
 
 
-![Buchcover Kaufen oder mieten]({{ site.baseurl }}{% link assets/geldkram/gk11-cover-kaufen-oder-mieten.png %})
+![Buchcover Kaufen oder mieten]({% link assets/geldkram/gk11-cover-kaufen-oder-mieten.png %})
 
 Gerd Kommer räumt in seinem Buch “Kaufen oder mieten?” mit derlei Mythen auf. Das klingt jetzt deutlich spannender und reißerischer als es ist. Gerd Kommers Annäherung an das Thema findet zwar deutliche Worte, bleibt dabei aber sachlich, geht sehr ausführlich auf historische Daten ein.
 
