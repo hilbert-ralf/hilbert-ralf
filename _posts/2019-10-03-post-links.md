@@ -22,10 +22,10 @@ Die Ausgabe sieht dann wie folgt aus.
 just copy one of the following link jerkyll / markdown links and copy to your post:
 
 
-1: ["Was tun mit dem Geld? Sparen!"]({{ site.baseurl }}{% post_url 2018-08-11-gk1-sparen %})
+1: ["Was tun mit dem Geld? Sparen!"]({% post_url 2018-08-11-gk1-sparen %})
 
-2: ["Warum Sparen? Aka wie funktioniert unsere Rente?"]({{ site.baseurl }}{% post_url 2018-08-18-gk2-rente %})
+2: ["Warum Sparen? Aka wie funktioniert unsere Rente?"]({% post_url 2018-08-18-gk2-rente %})
 
-3: ["Grundlagen der passiven Geldanlage"]({{ site.baseurl }}{% post_url 2018-08-29-gk3-grundlagen-der-passiven-geldanlage %})
+3: ["Grundlagen der passiven Geldanlage"]({% post_url 2018-08-29-gk3-grundlagen-der-passiven-geldanlage %})
 {% endraw %}
 {% endhighlight %}

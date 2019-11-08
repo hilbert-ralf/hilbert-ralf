@@ -19,7 +19,7 @@ do
     TITLE="$(cat $RELATIVE_PATH$n | grep 'title:' | cut -d'"' -f2)"
 
     echo ""
-    echo "$c: [\"$TITLE\"]({{ site.baseurl }}{% post_url $REF %})"
+    echo "$c: [\"$TITLE\"]({% post_url $REF %})"
 
     c=$((c+1))
 done

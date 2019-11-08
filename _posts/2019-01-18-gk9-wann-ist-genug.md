@@ -12,7 +12,7 @@ Gibt es den Moment, in dem ich fertig bin und einfach mein ganzes Einkommen “v
 
 Als ich mit 24 Jahren ins Berufsleben einstieg, kam ich zum ersten Mal in Kontakt mit einem größeren Einkommen. Zwar hatte ich schon vorher ein wenig gespart, da man aber als BAföG-Empfänger eine bestimmte Vermögenshöhe nicht übersteigen darf, waren meine Möglichkeiten eingeschränkt. 
 Angefangen hat es bei mir mit einem unguten Gefühl betreffend unseres Rentensystems (darüber habe ich bereits etwas
- ausführlicher geschrieben in diesem [Artikel]({{ site.baseurl }}{% post_url 2018-08-18-gk2-rente %})). Da ich mit Bankberatung eher mäßige Erfahrungen gemacht habe
+ ausführlicher geschrieben in diesem [Artikel]({% post_url 2018-08-18-gk2-rente %})). Da ich mit Bankberatung eher mäßige Erfahrungen gemacht habe
  , beschloss
   ich selbst etwas zu tun und las als Einstieg “Geldanlage für Faule” von Stiftung Warentest. Das ist ein sehr zugänglicher Ratgeber zum Thema Finanzen, zu dem keinerlei Vorkenntnisse erforderlich sind. Das genügt, um mich zu motivieren, mir ein Depot zu eröffnen und mit dem Investieren zu beginnen.
 Mein anfängliches Ziel war es, meine Rentenlücke zu schließen, ohne diese überhaupt genau zu kennen. Das lief so ein paar Jahre und ich konnte meine Sparrate regelmäßig erhöhen. Mittlerweile habe ich mehr und mehr auf Ausschüttungen geachtet, welche mich zusätzlich motivieren konnten weiter zu machen. Diese Summe steigt Jahr für Jahr und wächst langsam zu einem ansehnlichen Betrag zusammen, quasi einem zweiten Gehalt. Aus Interesse habe ich ein paar Online-Rechner ausprobiert sowie eigene Berechnungen angestellt und festgestellt: Siehe da, Rente ist gar nicht mehr so das Problem. Falls es so weiterläuft, habe ich vielleicht auch ein paar andere Optionen. Vielleicht werde ich von den Ausschüttungen allein leben können und das kann auch schon früher als zum Renteneintrittsalter sein, eventuell auch 10 oder 20 Jahre früher. Ich könnte aber auch meine Sparbemühungen reduzieren und beispielsweise in Teilzeit gehen und meinen Hobbys und Leidenschaften nachgehen. All das und vieles Mehr scheint möglich geworden zu sein. 
@@ -28,9 +28,9 @@ Wenn ich von Freunden darum gebeten wurde ein paar Grundlagen zum Thema Finanzen
 
 # Beispielrechnung
 
-Schauen wir uns mal als Beispielrechnung unseren Durchschnittsdeutschen aus dem vorherigen [Artikel]({{ site.baseurl }}{% post_url 2018-12-31-gk8-sparquote %})) an. Dieser Spart monatlich 390 €. Nehmen wir zusätzlich an dieser ist 30 Jahre alt und hat bereits 20.000 € als Initialinvestment. Wenn ich diese Daten in das Tool ["investment-calculator"](https://www.workfortime.com/investment-calculator) eingebe (da das Tool nur 50er Schritte unterstützt habe ich eine Sparrate von 400 € gewählt), komme ich zu dem folgenden Ergebnis:
+Schauen wir uns mal als Beispielrechnung unseren Durchschnittsdeutschen aus dem vorherigen [Artikel]({% post_url 2018-12-31-gk8-sparquote %})) an. Dieser Spart monatlich 390 €. Nehmen wir zusätzlich an dieser ist 30 Jahre alt und hat bereits 20.000 € als Initialinvestment. Wenn ich diese Daten in das Tool ["investment-calculator"](https://www.workfortime.com/investment-calculator) eingebe (da das Tool nur 50er Schritte unterstützt habe ich eine Sparrate von 400 € gewählt), komme ich zu dem folgenden Ergebnis:
 
-![Beispielrechnung Sparen 1]({{ site.baseurl }}{% link assets/geldkram/gk9-beispielrechnung-sparen-1.png %})
+![Beispielrechnung Sparen 1]({% link assets/geldkram/gk9-beispielrechnung-sparen-1.png %})
 ([Quelle](https://www.workfortime.com/investment-calculator/))
 
 Zunächst einmal fällt auf, das Tool unterstützt nur Dollar. Das ist aber nicht schlimm, die Rechnung sähe in Euro gleich aus. Spannender hingegen ist, das bei einem Renteneintritt mit 67 eine Summe von etwa 622.000 € zusammengespart wurde, was einer monatlichen “Rente” von etwa 2.000 € entspricht. Hier zugrunde liegen folgende Annahmen:
@@ -47,9 +47,9 @@ Zunächst einmal fällt auf, das Tool unterstützt nur Dollar. Das ist aber nich
    reichen.
 Leider ist auch diese Zahl mit Vorsicht zu genießen. Nicht nur das dir niemand sagen kann, welche Inflationsrate genau kommen wird. Ebenso unterscheidet sich die Ausgabenstruktur gegenüber einem normalen Sozialversicherungspflichtigen Arbeitnehmerverhältnisses. Auf Kapitalerträge gelten aktuell 25 % Kapitalertragssteuer + Solidaritätszuschlag. Falls du nun auch deinen Job aufgeben würdest, müsstest du dich beispielsweise selbst krankenversichern und auch selbst die gesamten Beiträge Zahlen.
 Was passiert nun, wenn wir als Annahme noch eine etwas optimistische jährliche Verzinsung annehmen? Gehen wir mal von
- etwa 8 % jährlich aus, was etwa dem Renditedreieck des DAX auf diesem [Artikel]({{ site.baseurl }}{% post_url 2018-09-30-gk5-risiko %})) zu entnehmen ist.
+ etwa 8 % jährlich aus, was etwa dem Renditedreieck des DAX auf diesem [Artikel]({% post_url 2018-09-30-gk5-risiko %})) zu entnehmen ist.
 
-![Beispielrechnung Sparen 2]({{ site.baseurl }}{% link assets/geldkram/gk9-beispielrechnung-sparen-2.png %})
+![Beispielrechnung Sparen 2]({% link assets/geldkram/gk9-beispielrechnung-sparen-2.png %})
 ([Quelle](https://www.workfortime.com/investment-calculator/))
 
 Nun, die höhere Verzinsung reicht offensichtlich aus, dass er eine ähnliche Summe nun schon 10 Jahre früher erreichen würde.
