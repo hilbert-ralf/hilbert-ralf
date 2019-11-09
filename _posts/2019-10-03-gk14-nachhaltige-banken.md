@@ -38,3 +38,9 @@ Ich rede mir ein, dass dies gar nicht so schlimm ist. Meine Konten versuche ich 
 
 Das heißt aber nicht, dass ich nachhaltigen Banken abschwöre. Ganz im Gegenteil: ich finde das Konzept interessant
  und kann es zu Teilen vielleicht auch anwenden. Dies betrifft vor allem Bereiche, in denen ich Geld über längere Zeit “herumliegen” lasse. Wie von mir empfohlen, halte auch ich einen Sicherheitspuffer, der spontane Ausgaben abfedern können soll, vor. Dieses Geld liegt seit Jahren auf einem Tagesgeldkonto mit einer aktuellen Verzinsung von 0,1 %. Da diese nicht wirklich nennenswert ist, kann ich mir hier gut vorstellen, dass ich dieses Geld lieber nachhaltig in Form eines Tagesgeldkontos bei einer nachhaltigen Bank arbeiten lasse. Für mich kommt hier am ehesten die [UmweltBank mit ihrem Tagesgeldkonto](https://www.umweltbank.de/anlegen-vorsorgen/sparen/umweltpluskonto) infrage. Es bringt zwar keine nennenswerten Zinsen, kostet hingegen aber auch nichts. 
+
+# Feedback
+
+Feedback jeglicher Art kannst du mir gerne als Antwort unter folgendem Tweet hinterlassen.
+
+{% twitter https://twitter.com/ralf_hilbert/status/1190288299233071106 %}

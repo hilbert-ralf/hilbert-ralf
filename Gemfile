@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-seo-tag"
   gem "jekyll-archives"
+  gem 'jekyll-twitter-plugin'
 
   # to be named last so it include all generated content in the sitemap.xml
   gem "jekyll-sitemap"
