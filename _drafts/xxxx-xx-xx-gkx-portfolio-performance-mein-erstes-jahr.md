@@ -20,8 +20,7 @@ Das umreißt es in groben Zügen.  Performance kann vieles sein, darüber hinaus
 
 # Wie funktioniert Portfolio Performance?
 
-Im grunde stelllt Portfolio Performance eine art Spiegelbild zum Depot dar. Man legt ein Konten und Depot an. Die Konten sind für Geld-Eingänge sowie -Ausgänge (Einzahlungen, Dividendenausschüttungen, Käufe und Verkäufe). Die Depots halten im gegenzug die Wertpapiere (Aktien, Fonds, ...). Portfolio Performance ist in in der Lage Kurse für Wertpapiere von verschiedenen Quellen aus dem Internet zu beziehen. Hierzu muss man dem Tool jedoch ein wenig helfen indem man einen entsprechenden Kurslieferanten im Internet angiebt. Zur Auswahl stehen dabei zum Beispiel [Yahoo Finance](https://de.finance.yahoo.com/) oder im allgemeinen Tabellen auf Webseiten. Wenn das getan ist, ermittelt Portfolio Performance die Kurse beim start.
-
+Im Grunde stelllt Portfolio Performance eine art Spiegelbild zum Depot dar. Man legt ein Konten und Depot an. Die Konten sind für Geld-Eingänge sowie -Ausgänge (Einzahlungen, Dividendenausschüttungen, Käufe und Verkäufe). Die Depots halten im gegenzug die Wertpapiere (Aktien, Fonds, ...). Portfolio Performance ist in der Lage Kurse für Wertpapiere von verschiedenen Quellen aus dem Internet zu beziehen. Hierzu muss man dem Tool jedoch ein wenig helfen indem man einen entsprechenden Kurslieferanten angibt. Zur Auswahl stehen dabei beispielsweise [Yahoo Finance](https://de.finance.yahoo.com/) oder im allgemeinen Tabellen auf Webseiten. Wenn das getan ist, ermittelt Portfolio Performance die Kurse beim start.
 
 
 # Meine Erfahrungen mit Portfolio Performance
@@ -48,7 +47,7 @@ Ein weiterer vorteil von Portfolio Performance auf den ich zwar einen Blick gewo
 
 ## Fazit und Ausblick
 
-Auch wenn Portfolio Performance durchaus mit Arbeit verbunden ist, macht es mir spass selber Dashboards zu erstellen und den überblick zu behalten. Das mir jedoch auch beim Rebalancing unter die Arme gegriffen wird ist vermutlich einer der wichtigsten Aspekte die ich anders nicht abdecken könnte. Ich halte Portfolio Performance für ein tolles Tool wenn man Interesse an der Entwicklung der eigenen Vermögenswerte hat und werde es auch weiterhin nutzen.
+Auch wenn Portfolio Performance durchaus mit Arbeit verbunden ist, macht es mir spass selber Dashboards zu erstellen und den überblick zu behalten. Das mir jedoch auch beim Rebalancing unter die Arme gegriffen wird ist vermutlich einer der wichtigsten Aspekte die ich anders nicht abdecken könnte. Ich halte Portfolio Performance für ein tolles Tool wenn man Interesse an der Entwicklung der eigenen Vermögenswerte hat und werde es auch weiterhin nutzen, denn der wirkliche Mehrwert kommt meiner Meinung erst mit Zeit zustande.
 
 
 [^1] Genau genommen waren es 14,63% [Time Weighted Rate of Return](https://en.wikipedia.org/wiki/Time-weighted_return) beziehungsweise 14.82% [Interner Zinsfuß](https://de.wikipedia.org/wiki/Interner_Zinsfu%C3%9F). Das klingt enorm, liegt aber vor allem an einem glücklichen Zeitfenster, das ich wählte. Der [MSCI World](https://www.onvista.de/index/MSCI-WORLD-Index-3193857) machte im gleichen Zeitraum etwa 14,39%, was einfach starken Schwankungen geschuldet ist. Langfristig kann man je nach Quelle von 5% - 10% p.a. ausgehen.
