@@ -61,7 +61,7 @@ Auch wenn Portfolio Performance durchaus mit Arbeit verbunden ist, macht es mir 
 
 Feedback jeglicher Art kannst du mir gerne als Antwort unter folgendem Tweet hinterlassen.
 
-{% twitter https://twitter.com/ralf_hilbert/status/1198614208780361728 %}
+{% twitter https://twitter.com/ralf_hilbert/status/1198996852739366913 %}
 
 
 
