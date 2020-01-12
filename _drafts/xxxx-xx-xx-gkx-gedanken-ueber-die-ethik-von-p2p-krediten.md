@@ -33,7 +33,10 @@ Bei mintos gehen Investitionen hingegend rasend schnell. Sofort konnte ich mir m
 
 ![mintos laufende investitionen]({% link assets/geldkram/gk16-mintos-laufende-investitionen.JPG %})
 
-Durch dieses direkten Ansprechen und diese direkte Umsetzbarkeit von Aktionen hat mintos schon fast etwas gemein mit Videospielen. Das kann gefährtlich sein, da hier ja nicht gespielt wird sondern es um echtes Geld und schlussendlich um echte Menschen die das Geld geben oder brauchen geht. Ich glaube man muss hier vorsichtig sein, gerade Personen die Suchterfahrungen mit Glücksspiel gemacht haben, könnten hier parallelen feststellen und über falsche Entscheidungen und hohe Risiken viel Geld verlieren.
+Durch dieses direkten Ansprechen und diese direkte Umsetzbarkeit von Aktionen hat mintos schon fast etwas gemein mit Videospielen. Das kann gefährtlich sein, da hier ja nicht gespielt wird sondern es um echtes Geld und
+
+
+ schlussendlich um echte Menschen die das Geld geben oder brauchen geht. Ich glaube man muss hier vorsichtig sein, gerade Personen die Suchterfahrungen mit Glücksspiel gemacht haben, könnten hier parallelen feststellen und über falsche Entscheidungen und hohe Risiken viel Geld verlieren.
 
 ## Kennzahlen
 In dem Obigen Bild sind noch ein paar weitere interessante Dinge zu sehen. Zum Beispiel ergibt sich eine Verzinsung für mich von etwa 10 % die das Mittel Bilden bei Verzinsungen von 7 % - 14 %. Die mittlere Restlaufzeit der vergebenen beträgt etwa 6 Monate, was sich auch dadurch zeigt das die meisten Investitionen in sogenannte "Kredite mit kurzfristigen Laufzeiten" geflossen sind.
@@ -46,7 +49,7 @@ Solche Renditen gibt es natürlich nicht ohne "umsonst", man muss ein erhebliche
 * **Ausfall der Plattform:** Hier sehe ich eines der größten Risiken. Da die Meisten dieser P2P-Plattformen recht jung sind, konnte sich keine von ihnen bereits bei einer echten Weltwirtschaftskriese bewähren. Man weiß schlicht nicht, ob, welche und in welcher Form die Plattformen die nächste, mit Sicherheit kommende Kriese überlebt. Was bei einem Fondanbieter kein Problem wäre, da die Fondeinlagen als Sondervermögen nicht zur Insolvenzmasse gehören, steht hier in einem ganz anderen Licht. Indem man sein Geld auf das Konto von einer dieser Plattformen überweist, geht dieses Geld in deren Bilanzsumme ein und ist zunächst einmal weg. Erst wenn man aktiv wieder herrauszieht ist das eigene Geld wieder sicher. Geld das zum Zeitpunkt der Insolvenz in einer dieser Plattformen steckt wird mit Sicherheit schwer wieder zu erhalten sein. Aber auch hierzu fehlen jegliche Erfarungswerte weil das Thema so jung ist.
 
 # Ein paar Gedanke zur Ethik
-Als ich mich begonnen habe mit P2P-Plattformen zu beschäftigen habe ich mich zunächst uber deren Sinn und Zweck gewundert. Geld in Form von Krediten zu verleihen ist schließlich die Aufgabe der Banken und von denen gibt es mehr als genug. 
+Als ich mich begonnen habe mit P2P-Plattformen zu beschäftigen habe ich mich zunächst uber deren Sinn und Zweck gewundert. Geld in Form von Krediten zu verleihen ist schließlich die Aufgabe der Banken und von denen gibt es mehr als genug.
 
 
 # Links
