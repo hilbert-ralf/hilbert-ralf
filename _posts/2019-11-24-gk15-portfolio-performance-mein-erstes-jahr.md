@@ -23,7 +23,7 @@ Das umreißt es in groben Zügen.  Performance kann vieles sein, darüber hinaus
 
 # Wie funktioniert Portfolio Performance?
 
-Im Grunde stellt Portfolio Performance eine art Spiegelbild zum Depot dar. Man legt Konten und Depots an. Die Konten sind für Geld-Eingänge sowie -Ausgänge (Einzahlungen, Dividendenausschüttungen, Käufe und Verkäufe). Die Depots halten im Gegenzug die Wertpapiere (Aktien, Fonds und so weiter). Portfolio Performance ist in der Lage Kurse für Wertpapiere von verschiedenen Quellen aus dem Internet zu beziehen. Hierzu muss man dem Tool jedoch helfen, indem man einen entsprechenden Kurslieferanten angibt. Zur Auswahl stehen dabei beispielsweise [Yahoo Finance](https://de.finance.yahoo.com/) oder Tabellen auf Webseiten im Allgemeinen. Wenn das getan ist, ermittelt Portfolio Performance die Kurse beim start.
+Im Grunde stellt Portfolio Performance eine Art Spiegelbild zum Depot dar. Man legt Konten und Depots an. Die Konten sind für Geld-Eingänge sowie -Ausgänge (Einzahlungen, Dividendenausschüttungen, Käufe und Verkäufe). Die Depots halten im Gegenzug die Wertpapiere (Aktien, Fonds und so weiter). Portfolio Performance ist in der Lage Kurse für Wertpapiere von verschiedenen Quellen aus dem Internet zu beziehen. Hierzu muss man dem Tool jedoch helfen, indem man einen entsprechenden Kurslieferanten angibt. Zur Auswahl stehen dabei beispielsweise [Yahoo Finance](https://de.finance.yahoo.com/) oder Tabellen auf Webseiten im Allgemeinen. Wenn das getan ist, ermittelt Portfolio Performance die Kurse beim start.
 
 
 # Meine Erfahrungen mit Portfolio Performance
