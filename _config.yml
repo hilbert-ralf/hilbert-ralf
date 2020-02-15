@@ -45,8 +45,11 @@ feed:
     - "geldkram"
     - "tech"
 
+# not enabled see https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
 jekyll-archives:
-  enabled: []
+  enabled:
+    - categories
+  category: '/category/:name/'
 
 
 
