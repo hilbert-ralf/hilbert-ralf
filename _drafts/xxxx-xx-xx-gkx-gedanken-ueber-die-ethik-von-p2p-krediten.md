@@ -50,6 +50,16 @@ Solche Renditen gibt es natürlich nicht ohne "umsonst", man muss ein erhebliche
 
 # Ein paar Gedanken zur Ethik
 Das waren jetzt viele Worte zu Themen wie Risiko oder meinen ersten Erfahurngen in diesem Thema, reichlich wenig hingegen zur Ethik. Habe ich dazu gar keine Meinung? Schwierig. Tatsächlich finde ich es bedenklich das Menschen tatsächlich Kredite nehmen mit Zinssätzen die über 200% p.a. (abzüglich der Margen der Kreditanbahner und Mintos bleiben entsprechend die beschrieben 7 % - 14 %) liegen können und mir zeitgleich die Möglichkeit für einen Dispokredit von unter 15% gegeben wird. Auf der anderen Seite wird sich sicherlich niemand von diesen Krediten ein Haus bauen, es handelt sich überwiegend um sehr kurzfristige Kredite. Und was wäre für die Menschen die diese Kredite inanspruch nehmen die Alternative? Würden sie entsprechend kreditwürdig sein das sie von Banken Kredite mit besseren Kodition bekämen, würden sie es tun. Würden also solche "Wuecherkredite" nicht als Möglichkeit existieren, von wem würden diejenigen die das Geld brauchen dann welches bekommen? Somit ist es zumindest eine bessere Alternative als sich Geld kriminellen Banden zu leihen oder anderweitig in die kriminalität abzudriften.
+Um Art von Krediten handelt es sich eigentlich?
+Wenn ich in mein Minto-Portfolio schaue, sehe ich folgende Aufschlüsselung:
+![mintos kreditarten]({% link assets/geldkram/gk16-mintos-kreditarten.JPG %})
+Die 3 größten Teile entfallen also scheinbar auf:
+* Verbraucherkredite
+* Kredite mit kurzer Laufzeit sowie
+* Autokredite
+
+
+
 
 Als ich mich begonnen habe mit P2P-Plattformen zu beschäftigen habe ich mich zunächst uber deren Sinn und Zweck gewundert. Geld in Form von Krediten zu verleihen ist schließlich die Aufgabe der Banken und von denen gibt es mehr als genug.
 
