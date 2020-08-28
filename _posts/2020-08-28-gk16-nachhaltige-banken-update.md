@@ -36,3 +36,9 @@ Ich halte jedoch meine Augen weiter offen nach einer solchen Alternative. =)
 # Weiterführendes
 
 * [Kommer-2019] - S. 103, Souverän investieren mit Indexfonds und ETFs, Auflage 5, 2019, Dr. Gerd Kommer
+
+# Feedback
+
+Feedback jeglicher Art kannst du mir gerne als Antwort unter folgendem Tweet hinterlassen.
+
+{% twitter https://twitter.com/ralf_hilbert/status/1299341755603656705 %}
