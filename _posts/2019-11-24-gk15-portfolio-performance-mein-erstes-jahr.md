@@ -48,7 +48,7 @@ Eine weitere wichtige Funktion von Portfolio Performance ist, dass man seine Wer
 ![Portfolio Performance Rebalancing]({% link assets/geldkram/gk15-portfolio-performance-rebalancing.JPG %})
 
 
-## Open Scource
+## Open Source
 
 Zu guter Letzt ist ein weiterer Vorteil von Portfolio Performance, auf den ich zwar einen Blick geworfen, aber ihn nicht wahr genommen habe: Es ist open source. Das Tool ist in der Programmiersprache Java geschrieben und [auf GitHub verfügbar](https://github.com/buchen/portfolio). Änderungen an der Software, zum Beispiel für gewünschte Funktionalitäten oder Fehlerbehebungen, kann man also vorschlagen oder gar selbst umsetzen, das richtige KnowHow und die nötige Zeit vorausgesetzt.
 
