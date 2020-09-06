@@ -18,7 +18,7 @@ Da Anleihen ein komplexeres Konstrukt als beispielsweise Aktien sind, habe ich u
 * **Definition:** “Eine Anleihe […] ist ein zins­tragendes Wertpapier. Es handelt sich um ein Wertpapier, das dem Gl
 äubiger das Recht auf Rückzahlung sowie auf Zahlung vereinbarter Zinsen einräumt. [...] Typischerweise dienen Anleihen dem Schuldner zur [...] Fremdfinanzierung und dem Gläubiger zur Kapitalanlage. Zur Wertpapiergattung der Anleihen zählen Staatsanleihen [...], Unternehmensanleihen [...]” ([Zitat von Wikipedia](https://de.wikipedia.org/w/index.php?title=Anleihe&oldid=184395742) Stand 06.02.2019 )
 * Der **Nennwert** ist der Wert einer einzelnen Anleihe zum Ausgabezeitpunkt. Beispielsweise könnte eine Anleihe einen
- Nennwert von 100 € haben, wenn ein Unternehmen 100.000 € Kredit erhalten will und hierzu 1000 Anleihen ausgibt. 
+ Nennwert von 100 € haben, wenn ein Unternehmen 100.000 € Kredit erhalten will und hierzu 1000 Anleihen ausgibt.
 * Der **Kuponzins** ist die Verzinsung auf den Nennwert der Anleihe, die regelmäßig gezahlt wird.
 * Die **Laufzeit** beschreibt, wie lange die Verzinsungsphase läuft, bis die Anleihe zurückgezahlt wird.
 
@@ -57,3 +57,5 @@ Weitere Recherche auf anderen Seiten ergab leider nicht viel mehr. Zwar nehme ic
 
 * [Grüne Anleihen: ohne rosarote Brille betrachtet](https://www.die-gdi.de/analysen-und-stellungnahmen/article/gruene
 -anleihen-ohne-rosarote-brille-betrachtet/)
+* [Bund will 2020 Green Bonds über 8 bis 12 Milliarden Euro begeben]https://www.pv-magazine.de/2020/08/25/bund-will-2020-green-bonds-ueber-8-bis-12-milliarden-euro-begeben/
+* [Finanzfluss - Green Bonds : Investieren in grüne Anleihen]https://www.youtube.com/watch?v=xGHbt93iPf8
