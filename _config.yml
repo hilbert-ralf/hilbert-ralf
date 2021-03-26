@@ -30,8 +30,6 @@ facebook_username: ralf.hilbert.3
 markdown: kramdown
 theme: minima
 
-# preview of post on homepage
-show_excerpts: true
 
 plugins:
   - jekyll-feed

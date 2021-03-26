@@ -16,4 +16,4 @@ category: ["tech"]
 * jekyll serve
 
 * github unterstützt viele plugins nicht, daher lokal bauen und **nur** docs ordner deployen:
-  * jekyll clean -d .\docs && jekyll build -d .\docs
+  * bundle exec jekyll clean -d .\docs && bundle exec jekyll build -d .\docs

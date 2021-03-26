@@ -5,6 +5,10 @@ date:   2021-03-26 01:00:00 +0200
 category: ["geldkram"]
 ---
 
+---
+excerpt_separator: <!--more-->
+---
+
 # Einführung
 
 Meine aktuelle Depotallokation habe ich vor etwa 1-2 Jahren entworfen. Ich habe hier versucht mir den Ansatz vom Weltportfolio von Gerd Kommer als Vorbild und Ziel zu setzen und mit meinen bisherigen Anlagen in einklang zu bringen. Das hat sich so ausgewirkt, das ich einen großteil (70 %) neuer Anlagen in den Weltportfolioanteil geleitet habe und der Rest sich auf meine bisherigen Spekulationen und Barreserven aufteilten. Um dieser Aufteilung umzusetzen habe ich viele Altbestände verkauft und umgeschichtet.
@@ -14,11 +18,15 @@ Mit dem weiter und weiter wachsenden Depot fühlte sich diese Aufteilung aber im
 
 Wie dem auch sei, hier nun meine neue Depotaufteilung.
 
+**Disclaimer:** Gerade, weil ich in der Grafik konkrete Produkte nenne, möchte ich betonen, dass ich hier keine Empfehlung ausspreche, noch eine Anlageberatung durchführe. Ich schildere lediglich meine Erfahrungen und meine Ansichten.
+
 ![Aufteilung Weltportfolio]({% link assets/geldkram/mein-depot/2021-depot.svg %})
   
 Ich halte diese Aufteilung nach aktuellem Stand noch nicht vollständig ein, ich sehe sie als Ziel, auf das ich hinarbeite.
 
 # Alte Depotaufteilung
+
+**Disclaimer:** Gerade, weil ich in der Grafik konkrete Produkte nenne, möchte ich betonen, dass ich hier keine Empfehlung ausspreche, noch eine Anlageberatung durchführe. Ich schildere lediglich meine Erfahrungen und meine Ansichten.
 
 Hier der vollständigkeit halbe noch meine alte Depotaufteilung:
 
