@@ -3,10 +3,7 @@ layout: post
 title:  "Depotupdate 2021"
 date:   2021-03-26 01:00:00 +0200
 category: ["geldkram"]
----
-
----
-excerpt_separator: <!--more-->
+tags: [Weltportfolio, Depotupdate]
 ---
 
 # Einführung
