@@ -10,10 +10,10 @@ category: ["tech"]
 * jekyll new .
 * baseurl in _config.yml anpassen
 * bundle install
-* jekyll build
+* bundle exec jekyll build
 * .gitignore editieren
 * alles einchecken
-* jekyll serve
+* bundle exec jekyll serve
 
 * github unterstützt viele plugins nicht, daher lokal bauen und **nur** docs ordner deployen:
   * bundle exec jekyll clean -d .\docs && bundle exec jekyll build -d .\docs
