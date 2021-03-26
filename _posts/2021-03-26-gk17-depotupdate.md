@@ -31,3 +31,10 @@ Ich halte diese Aufteilung nach aktuellem Stand noch nicht vollständig ein, ich
 Hier der vollständigkeit halbe noch meine alte Depotaufteilung:
 
 ![Aufteilung Weltportfolio (alt)]({% link assets/geldkram/mein-depot/2020-depot.png %})
+
+
+# Feedback
+
+Feedback jeglicher Art kannst du mir gerne als Antwort unter folgendem Tweet hinterlassen.
+
+{% twitter https://twitter.com/ralf_hilbert/status/1375428545934135299 %}
